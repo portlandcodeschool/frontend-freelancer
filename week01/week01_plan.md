@@ -2,7 +2,12 @@
 
 ##Activities
 * Group warmup
-* Introductions
+* Introductions 
+* What web pages are
+	* Menu, Kitchen, Server
+	* Magic words and meta-words 	
+	* "Coding" vs "Programming" vs "Web Development"
+	 	
 * Overview of the class 
 	* Syllabus
 	* Calendar
@@ -13,11 +18,20 @@
 	* IRC
 	* Cel.ly
 * Overview of web application architecture
+	* Local Apache stack
+	* Other locally served options
+	* Overview of deployment methods
 * Overview the current freelancer envionment
+	* Jobs vs gigs
+	* Types of Work
+	* Finding work
+	* What makes you valueable 
 * Introduce Git version control 
-* Install web development tools tools
+* Install web development tools
+	* The importance of critical technical choices 
 	* Git
 	* Sublime Text
+	* MAMP
 * Watch introductory HTML/CSS, git, & console videos from [Treehouse](teamtreehouse.com)
 * Start online coding practice at [Code Academy](www.codeacademy.com)
 
@@ -30,7 +44,7 @@
 	* Website Basics Badge
 	* Text Editors and HTML Badge
 
-0. Do the first lesson in the [Code Academy Web Track](http://www.codecademy.com/tracks/ruby).
+0. Do the first lesson in the [Code Academy Web Track](http://www.codecademy.com/tracks/web).
 
 0. Earn the following [Git Basics](http://teamtreehouse.com/library/programming/git-basics) badges on Treehouse. 
 
@@ -45,11 +59,8 @@
 0. Set up your machine with the recommended development tools. 
 
 	We recommend that you do this in pairs during class night or during office hours.
-
-	0. Install the package manager for your OS. For OSX, we recommend [Homebrew](http://brew.sh). There's a [introductory screencast available](http://screencasts.org/episodes/how-to-use-homebrew) *Note: You don't have to use our recommended tools. However, the rest of the course assumes the use of recommended tools.*
-
+	0. Install [MAMP](http://www.mamp.info/en/index.html)
 	0. Install git. (Optional: install a git GUI client. We'll discuss which one in class.)
-
 	0. Install [Sublime Text](http://www.sublimetext.com). Get version 3 if you are feeling adventurous. This is a paid software product that has an indefinite free trial. You should plan on paying for it as soon as you have a developer job.
 
 0. Connect up to the community
@@ -67,18 +78,44 @@
 
 We encourage all students to participate in the local technical community. 
 
-????
-
 ### Community online tools
 
-#### Mailing lists (Google Groups)
+#### Local Resources
 
-Join these lists!
+[Calagator](http://calagator.org/events)
 
-????
+[ePDX](http://epdx.org)
+
+[PDX Web dev meetup](http://www.meetup.com/pdxweb/)
+
+[PDX UX meetup](http://www.meetup.com/pdxweb/)
+
+[Jobs at 52LTD](http://52ltd.com/)
+
+[Silicon Florist](http://siliconflorist.com/)
+
+[The Job -- a Podcast by Needmore Designs](http://thejobpdx.com/)
+
+
+#### Around the Web
+
+[Subtraction](http://www.subtraction.com/)
+
+[Basecamp's blog](http://signalvnoise.com/)
+
+[Under Consideration](http://www.underconsideration.com/)
+
+[HTML5 weekly](http://html5weekly.com/)
+
+[CSS Weekly](http://css-weekly.com/)
+
+[Web Design Weekly](http://web-design-weekly.com/)
+
+[This Developer's Life](http://thisdeveloperslife.com/)
+
 
 #### Google Community
-As part of something new, we are establishing a Google+ "Community" just for Portland Code School. We'd appreciate your participation to see if this is something worthwhile. Unlike FaceBook, Google+ is used by technology professionals to network.
+As part of something new, we are establishing a Google+ "Community" just for Portland Code School. We'd appreciate your participation to see if this is something worthwhile. Unlike facebook, Google+ is used by technology professionals to network.
 
 #### Realtime video & desktop sharing: Hangouts, Skype
 * Google+ Hangouts - Multiway video and desktop sharing
@@ -87,27 +124,35 @@ As part of something new, we are establishing a Google+ "Community" just for Por
 There's aren't any regularly scheduled hangouts, yet, so contact the person you want to connect with ahead of time.
 
 #### Realtime chat: IRC
-Many developers and all sorts of other people hang out on IRC. It's great for semi-anonymous, real-time communication. Many gems and other applications have IRC channels where the authors are willing to answer questions. It's really a developer's paradise.
+Many developers and all sorts of other people hang out on IRC. It's great for semi-anonymous, real-time communication. It's really a developer's paradise.
 
-There are several command-line clients worth investigating. On the Mac, Colloqy (http://colloquy.info) is a good choice while Adium (https://adium.im) is a great multi-modal chat client.
+There are several command-line clients worth investigating. On the Mac, [Colloqy](http://colloquy.info) is a good choice while [Adium](https://adium.im) is a great multi-modal chat client.
 
 Portland Code School has a student channel on irc.freenode.net called "#portlandcodeschool" that you should check out. Instructors and former students also hangout there.
 
 
 Like any group or society, IRC has its own norms of interaction. As with any communication situation, it's worth your time to learn how to behave "when in Rome." For an introduction on IRC, see http://www.ircbeginner.com
 
-### Resources
+### Development Resources -- Getting Started
 
-??????
-
-* [Homebrew](http://brew.sh) and [introductory screencast](http://screencasts.org/episodes/how-to-use-homebrew)
 * [Sublime Text](http://www.sublimetext.com)
 * [IRC](http://www.ircbeginner.com)
+* [MAMP](http://www.mamp.info/en/index.html)
+* [GIT](https://github.com)
+
+Extras
+
+* [Jumpcut](http://jumpcut.sourceforge.net)
+* [Espresso text editor](http://macrabbit.com/espresso/)
+* [aText](http://www.trankynam.com/atext/) / [TextExpander](https://smilesoftware.com/TextExpander/index.html)
+* [Mou](http://mouapp.com/)
 
 
 ### Additional resources
 
-### Books
-As you can tell, this course emphasizes online resources. If you'd like to read a book on these many subjects, there are many available. Here are a few (available in paper, EPUB, and MOBI formats):
+[HTML Reference](http://www.w3schools.com/tags/default.asp)
 
-?????????
+[CSS Reference](http://www.w3schools.com/cssref/default.asp)
+
+[GIT for grown ups](http://24ways.org/2013/git-for-grownups/)
+

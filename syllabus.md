@@ -7,8 +7,8 @@ Front End Freelancer Class Syllabus
 
 Contact | Nìm Wunnan | Al Zimmerman
 -------:|-------|--------
-Email | xxxxxxxx@portlandcodeschool.com | azimmerman@portlandcodeschool.com
-Phone (text and voicemail):|  xxx-xxx-xxx |  593-970-3645
+Email | nwunnan@portlandcodeschool.com | azimmerman@portlandcodeschool.com
+Phone (text and voicemail):|  503-853-3721 |  593-970-3645
 Office Hours| unknown |  Tuesday & Thursday 3-6pm
 
 ### Contacting your instructors
@@ -16,7 +16,9 @@ Office Hours| unknown |  Tuesday & Thursday 3-6pm
 
 **From Nìm:**
 
-lorem Ipsum
+I will sometimes be available for a short period of time after each class. My main office hours are TBD. I'm also willing to meet with you by prior arrangement, either online in a Google hangout or Skype screen sharing session or in the SE Industrial District. I am not available on weekends or Wednesdays (that day may change). Unless it is an emergency, only contact me during office hours. Emergencies will be billed at market rates if they are not real emergencies :). 
+
+My Code School email is nwunnan@portlandcodeschool.com. Email to this address will get a reply within 24-48 hours. My cellphone is 503-853-3721, but please only text, do not call. If you text me, please prefix your text with the word "PCS". Texts or voicemail will get a reply within 4 hours.
 
 
 **From Al:**
@@ -153,6 +155,9 @@ Our ultimate goal is to be able to give a shining recommendation about you to an
 Along the way, we will be asking ourselves the same questions about you that all hiring managers will be asking about you:
 
 0. Can you work in a team?
+1. Can you handle jobs on your own?
+1. Can you communicate in such a way that the people you deal with find you reliable?
+2. Can you find effective decisions, not just the "right" ones?
 0. Can you follow instructions and finish assignments ahead of schedule?
 0. Can you extrapolate from vague inputs and take the initiative to resolve any missing information?
 0. Do you have a bias towards action and taking risks?
@@ -238,7 +243,7 @@ During the final week of class, students will present their completed projects t
 
 Details will be provided as the class proceeds.
 
-1. Month 1 - HTML/CSS basics, validation, simple sites, editing tools, pair programming, teamwork, community
+1. Month 1 - HTML/CSS basics, validation, simple sites, editing tools, teamwork, community
 1. Month 2 - Advanced HTML/CSS, working with audio and video, static site generators, responsive design, web frameworks (Bootstrap), JavaScript programming basics
 1. Month 3 - Working with clients, specifying web applications with user stories and wireframes, more JavaScript, creating interactivity with jQuery; career guidance: portfolios, collaboration
 1. Month 4 - Capstone project design and construction, job hunting skills, pitching to clients, making technical presentations and mentoring others in the community

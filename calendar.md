@@ -10,7 +10,7 @@ Week 1
 
 Week 2
 --------
-* Product development: working in teams, agile methods
+* Project management: working in teams, working alone, working with clients, agile methods
 * Career: Participating in communities
 * Tools: Exploring, reading, & watching code with Chrome Development tools
 * Code Challenge 01
