@@ -1,7 +1,7 @@
 #Week 1
 
 ##Activities
-* Group warmup
+* Group warmup. Hello!
 * Introductions 
 * What web pages are
 	* Menu, Kitchen, Server
