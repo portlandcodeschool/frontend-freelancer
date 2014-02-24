@@ -3,10 +3,11 @@
 ##Activities
 * Group warmup.
 * Introductions 
-* What web pages are
-	* Menu, Kitchen, Server
-	* Magic words and meta-words 	
-	* "Coding" vs "Programming" vs "Web Development"
+* * Install web development tools
+	* The importance of critical technical choices 
+	* Git
+	* Sublime Text
+	* MAMP
 * Overview of the class 
 	* Syllabus
 	* Calendar
@@ -16,6 +17,10 @@
 	* Google Hangouts
 	* IRC
 	* Cel.ly
+* What web pages are
+	* Menu, Kitchen, Server
+	* Magic words and meta-words 	
+	* "Coding" vs "Programming" vs "Web Development"
 * Overview of web application architecture
 	* Local Apache stack
 	* Other locally served options
@@ -26,11 +31,7 @@
 	* Finding work
 	* What makes you valueable 
 * Introduce Git version control 
-* Install web development tools
-	* The importance of critical technical choices 
-	* Git
-	* Sublime Text
-	* MAMP
+
 * Watch introductory HTML/CSS, git, & console videos from [Treehouse](teamtreehouse.com)
 * Start online coding practice at [Code Academy](www.codeacademy.com)
 
