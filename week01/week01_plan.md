@@ -7,7 +7,6 @@
 	* Menu, Kitchen, Server
 	* Magic words and meta-words 	
 	* "Coding" vs "Programming" vs "Web Development"
-	 	
 * Overview of the class 
 	* Syllabus
 	* Calendar
@@ -51,6 +50,8 @@
 	* Why Version Control Matters
 	* Getting Started with Git
 	* Working with Remote Repositories
+	
+0. Do the online introduction at [Try Git](http://try.github.io/)
 
 0. Earn the following [Console Foundations](http://teamtreehouse.com/library/programming/console-foundations) badge on Treehouse
 
@@ -58,7 +59,7 @@
 	
 0. Set up your machine with the recommended development tools. 
 
-	We recommend that you do this in pairs during class night or during office hours.
+	We recommend that you do this in pairs during class or during office hours.
 	0. Install [MAMP](http://www.mamp.info/en/index.html)
 	0. Install git. (Optional: install a git GUI client. We'll discuss which one in class.)
 	0. Install [Sublime Text](http://www.sublimetext.com). Get version 3 if you are feeling adventurous. This is a paid software product that has an indefinite free trial. You should plan on paying for it as soon as you have a developer job.
