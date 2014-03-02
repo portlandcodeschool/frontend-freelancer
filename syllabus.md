@@ -244,9 +244,104 @@ During the final week of class, students will present their completed projects t
 Details will be provided as the class proceeds.
 
 1. Month 1 - HTML/CSS basics, validation, simple sites, editing tools, teamwork, community
-1. Month 2 - Advanced HTML/CSS, working with audio and video, static site generators, responsive design, web frameworks (Bootstrap), JavaScript programming basics
+1. Month 2 - Advanced HTML/CSS, working with audio and video, CMS's and static site generators, responsive design, web frameworks (Bootstrap), JavaScript programming basics
 1. Month 3 - Working with clients, specifying web applications with user stories and wireframes, more JavaScript, creating interactivity with jQuery; career guidance: portfolios, collaboration
 1. Month 4 - Capstone project design and construction, job hunting skills, pitching to clients, making technical presentations and mentoring others in the community
+
+#Course Overview
+
+We will cover material on four major themes: Career, Code, Process & Tools
+
+##Career
+
+* Joining the Community
+	* Developer culture
+	* Local developer resources
+	* Online communities 
+* Freelancing techniques
+	* Contracting
+	* Working with other freelancers
+	* Looking for work 	
+* Making critical technical choices 
+* Understanding different types of work and their roles
+* Project management
+	* Time management
+	* Client communication
+	* Project management platforms 
+
+##Code
+
+* HTML5
+	* Boilerplate
+	* New elements and their use
+	* Page structure 
+	* Email-
+* CSS3
+	* Preprocessors like SASS & LESS
+	* CSS frameworks (bootstrap, foundation) 
+* JavaScript & jQuery
+	* Javascript / ECMA Script fundamentals
+	* Using 3rd party libraries
+	* jQuery libraries and patterns
+* CMS's
+	* Wordpress
+	* Modx
+	* Craft
+	* Expression Engine 	
+* Other Content Management Options
+	* Static site generators
+	* Jekyll / Liquid Templating
+	* Hosted solutions (Squarespace, Shopify, etc)
+
+
+##Process
+* Analysis
+	* User Stories
+	* Content Strategy
+	* Managing Client Expectations
+* Design
+	* Functional design vs graphic design
+	* wireframes, paper prototyping, rapid prototyping
+	* Comps, wireframes, and site sketches
+* Testing
+	* Capybara
+	* Selenium
+	* W3C validation
+	* X-browser testing
+* Project planning and management
+	* Working on a team / partnered
+	* Production best practices
+	* Being a one-person shop
+	* Budgeting time and money
+	* Learning while working
+
+
+##Tools
+* Writing code
+	* Sublime Text 
+	* JsFiddle
+	* Productivity utilities  	
+* Source control and collaboration
+	* git and github
+	* Trello
+	* Basecamp
+	* Pivotal Tracker 
+	* Google Apps
+* Mockup and prototyping
+	* Pen and Paper
+	* Invision
+	* Wireframing	 
+* Testing
+	* Capybara
+	* Selenium
+	* W3C validation 	 
+* Deployment & DevOps
+	* SSH / SFTP
+	* C-Panels
+	* Moving a CMS to a different server
+	* Herkou
+	 
+
 
 ## Calendar subject to change
 
