@@ -1,3 +1,6 @@
+*Portland Code School*
+
+Front End Freelancer Course
 #Week 2
 
 ##Monday
@@ -5,27 +8,30 @@
 * Review of XAMPP stack
 * Student feedback
 
-* Overview of code editors
-	* [ST](http://www.sublimetext.com/) vs [Espresso](http://macrabbit.com/espresso/) vs plaintext editor
-	* [IDEs](xxxx) vs text editors
-	* Becoming a SublimeText Power User -AZ
 
-* [Chrome Developer tools](https://developers.google.com/chrome-developer-tools/) XXXX
+### Browsers, HTML, CSS Overview
+* [Screencast available](http://youtu.be/DuSURHrZG6I)
+
+###"Coding" vs "Programming" vs "Web Development"
+* Magic words and meta-words
+* Basic structures and ideas of HTML 
+* Basic structures and ideas of CSS 
+
+###Introduction to tools
+* [Chrome Developer tools](https://developers.google.com/chrome-developer-tools/) 
 	* Code inpectors on other browsers
 		- Firefox: [Web Developer](https://addons.mozilla.org/en-US/firefox/addon/web-developer/?utm_source=Code+Scouts&utm_campaign=281f029887-Newsletter_06_07_20136_8_2013&utm_medium=email&utm_term=0_6fe7c0a699-281f029887-62930889) & [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
 		- Safari [Web Inspector](https://developer.apple.com/safari/tools/)
 		- IE [Developer Toolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)
-	* Testing, writing CSS XXXX
+
 	* Editing HTML live
-		* [Saving work from Code inspector](XXXX)
-		* [Using JS Fiddle](XXXX jsfiddle site)
-	
-###"Coding" vs "Programming" vs "Web Development"
-* Magic words and meta-words
-* Basic structures and ideas of HTML XXXX
-	* If most students are familiar with the structure of HTML and can clearly describe the concepts, this can shift to a Q&A 
-* Basic structures and ideas of CSS XXXX
-	* If most students are familiar with the structure of CSS and can clearly describe the concepts, this can shift to a Q&A 
+		* Saving work from Code inspector
+		* [Using JS Fiddle](http://jsfiddle.net)
+
+* Overview of code editors
+	* [ST](http://www.sublimetext.com/) vs [Espresso](http://macrabbit.com/espresso/) vs plaintext editor
+	* [IDEs](xxxx) vs text editors
+	* Becoming a SublimeText Power User 
 
 
 ##Wednesday
@@ -33,8 +39,8 @@
 ### In the code
 
 ####Magic Words
-* Advanced Developer Tools -AZ
-* What is a programming language? -AZ
+* Advanced Developer Tools 
+* What is a programming language? 
 * Programming languages and their relationships to web pages
 
 * Looking deeper at HTML 
@@ -44,13 +50,13 @@
 * Looking deeper at CSS
 	* The limits of CSS
 	* Why preprocessors
-		* [SASS](main sass site XXXX)
-		* [Less](main less site XXXX)
-		* [Compiling SASS and LESS yourself](googleXXXX)
+		[//]: <> (SASS
+		[//]: <> (Less
+		[//]: <> (Compiling SASS and LESS yourself)
 	
-
 * Scrape and break
 	* Pick and download a basic web page to your local environment and start playing around with it
+
 * Real-world examples from Ním
 
 ### Talking about freelancing
@@ -73,11 +79,13 @@
 	* Creating a Website Structure
 	* Styling Content
 
+0. Earn the [Chrome DevTools Basics](http://teamtreehouse.com/library/website-optimization) badge.
+
 0. Do the next lesson in the [Code Academy Web Track](http://www.codecademy.com/tracks/web): "HTML Structure: Using Lists", including
 	* HTML Basics II
 	* Social Networking Profile
 
-Note: These lessons are embedding all CSS language in the tags as attributes. This technique helps you associate the style with the tag. Later, we'll explore separating the style from the content as we've discussed in class. 
+Note: These lessons are embedding all CSS language in the element tags in a *style* attribute. This technique helps you mentally associate the style with the tag. Later, we'll explore separating the style from the content as we've discussed in class. 
 
 
 ### Development Resources -- Getting Started
@@ -165,7 +173,7 @@ Tools vary by browser version.
 
 
 #CSS HIERARCHY
----------------------------------
+
 
 More Specific ALWAYS WINS
 
@@ -176,3 +184,7 @@ From specific to general:
 3. CLASS - .article
 4. TAG - div
 5. DOCUMENT INHERITANCE  
+
+<hr />
+Copyright © 2014 Alan Zimmerman & Nìm Wunnan<br />
+Used by permission by Portland Code School
