@@ -18,7 +18,7 @@
 	* Testing, writing CSS XXXX
 	* Editing HTML live
 		* [Saving work from Code inspector](XXXX)
-	* Advanced Developer Tools -AZ
+		* [Using JS Fiddle](XXXX jsfiddle site)
 	
 ###"Coding" vs "Programming" vs "Web Development"
 * Magic words and meta-words
@@ -26,28 +26,35 @@
 	* If most students are familiar with the structure of HTML and can clearly describe the concepts, this can shift to a Q&A 
 * Basic structures and ideas of CSS XXXX
 	* If most students are familiar with the structure of CSS and can clearly describe the concepts, this can shift to a Q&A 
-* What is a programming language? -AZ
-* Programming languages and their relationships to web pages
-
 
 
 ##Wednesday
 
 ### In the code
+
+####Magic Words
+* Advanced Developer Tools -AZ
+* What is a programming language? -AZ
+* Programming languages and their relationships to web pages
+
 * Looking deeper at HTML 
 	* Validation
 	* Things you see on screen and things you don't
 
 * Looking deeper at CSS
 	* The limits of CSS
-	* Why preprocessors 
+	* Why preprocessors
+		* [SASS](main sass site XXXX)
+		* [Less](main less site XXXX)
+		* [Compiling SASS and LESS yourself](googleXXXX)
+	
 
 * Scrape and break
 	* Pick and download a basic web page to your local environment and start playing around with it
 * Real-world examples from Ním
 
 ### Talking about freelancing
-* Quick review and discussiona of questions asked on Friday and other FAQs about freelancing and how to do it
+* Quick review and discussion of questions asked on Friday and other FAQs about freelancing and how to do it
 
 
 
@@ -141,3 +148,19 @@ Tools vary by browser version.
 ###All browsers
 
 [Colour Bookmark](http://wearepandr.com/labs/colour_bookmark): Will show you a palette of all colors being used on the current website. Just drag the bookmarklet to your browser’s toolbar, and click it anytime you find a site you want to analyze. Super awesome and useful. 
+
+
+
+
+#CSS HIERARCHY
+---------------------------------
+
+More Specific ALWAYS WINS
+
+From specific to general:
+
+1. ELEMENT STYLE
+2. ID - #intro
+3. CLASS - .article
+4. TAG - div
+5. DOCUMENT INHERITANCE  
