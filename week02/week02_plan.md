@@ -67,6 +67,17 @@ where do html & css come from? standards: [WHATWG - HTML](http://developers.what
 
 ## Assignment
 
+0. Report your hours and progress on the assignments to Nìm and Al by Sunday night.
+
+0. Earn the next two badges in the [Treehouse Web Design Track](http://teamtreehouse.com/tracks/web-design). These are part of the "Build a Simple Website" course. If you've already dones so, great! If you've covered this material before, just take the quizzes. Otherwise, watch the screencasts and take the quizzes. Note: We will not use "Launching the Website" at this time.
+	* Creating a Website Structure
+	* Styling Content
+
+0. Do the next lesson in the [Code Academy Web Track](http://www.codecademy.com/tracks/web): "HTML Structure: Using Lists", including
+	* HTML Basics II
+	* Social Networking Profile
+
+Note: These lessons are embedding all CSS language in the tags as attributes. This technique helps you associate the style with the tag. Later, we'll explore separating the style from the content as we've discussed in class. 
 
 
 ### Development Resources -- Getting Started
