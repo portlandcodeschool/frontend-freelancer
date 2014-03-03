@@ -61,6 +61,8 @@
 
 0. Report your hours and progress on the assignments to Nìm and Al by Sunday night.
 
+0. Explore the resources given below. Even if you don't understand why these are needed, at least you'll get an idea of the diversity of tools.
+
 0. Earn the next two badges in the [Treehouse Web Design Track](http://teamtreehouse.com/tracks/web-design). These are part of the "Build a Simple Website" course. If you've already dones so, great! If you've covered this material before, just take the quizzes. Otherwise, watch the screencasts and take the quizzes. Note: We will not use "Launching the Website" at this time.
 	* Creating a Website Structure
 	* Styling Content
