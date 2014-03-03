@@ -56,7 +56,6 @@
 * Build from scratch a static page that you can host on your local environment. Project is delivered by committing it to the class repo.
 
 
-
 ## Assignment
 
 0. Report your hours and progress on the assignments to Nìm and Al by Sunday night.
