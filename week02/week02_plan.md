@@ -1,16 +1,16 @@
-#Week 1
+#Week 2
 
 ##Monday
 
-* Review of XAMP stack
+* Review of XAMPP stack
 * Student feedback
 
 * Overview of code editors
-	* ST vs Espresso vs plaintext editor
+	* [ST](http://www.sublimetext.com/) vs [Espresso](http://macrabbit.com/espresso/) vs plaintext editor
 	* [IDEs](xxxx) vs text editors
 	* Becoming a SublimeText Power User -AZ
 
-* Chrome Developer tools XXXX
+* [Chrome Developer tools](https://developers.google.com/chrome-developer-tools/) XXXX
 	* Code inpectors on other browsers
 	* Testing, writing CSS XXXX
 	* Editing HTML live
@@ -25,6 +25,18 @@
 	* If most students are familiar with the structure of CSS and can clearly describe the concepts, this can shift to a Q&A 
 * What is a programming language? -AZ
 * Programming languages and their relationships to web pages
+
+### HTML & CSS Resources
+[A Beginner's Guide to HTML & CSS - Shay Howe](http://learn.shayhowe.com/html-css/)
+
+[Mozilla Developer Network Guides](https://developer.mozilla.org/en-US/docs/Web)
+
+[Dive into HTML5 - Mark Pilgrim](http://diveintohtml5.info/)
+
+resources from [Metal Toad](http://www.metaltoad.com/html5-reference)
+
+where do html & css come from? standards: [WHATWG - HTML](http://developers.whatwg.org/) / [W3C](http://www.w3.org/Style/CSS/learning)
+
 
 
 ##Wednesday
