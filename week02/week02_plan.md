@@ -10,7 +10,7 @@
 	* [IDEs](xxxx) vs text editors
 	* Becoming a SublimeText Power User -AZ
 
-* [Chrome Developer tools](https://developers.google.com/chrome-developer-tools/) XXXX
+* [Chrome Developer tools](https://developers.google.com/chrome-developer-tools/)
 	* Code inpectors on other browsers
 		- Firefox: [Web Developer](https://addons.mozilla.org/en-US/firefox/addon/web-developer/?utm_source=Code+Scouts&utm_campaign=281f029887-Newsletter_06_07_20136_8_2013&utm_medium=email&utm_term=0_6fe7c0a699-281f029887-62930889) & [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
 		- Safari [Web Inspector](https://developer.apple.com/safari/tools/)
@@ -25,7 +25,6 @@
 * Basic structures and ideas of HTML XXXX
 	* If most students are familiar with the structure of HTML and can clearly describe the concepts, this can shift to a Q&A 
 * Basic structures and ideas of CSS XXXX
-	* If most students are familiar with the structure of CSS and can clearly describe the concepts, this can shift to a Q&A 
 
 
 ##Wednesday
@@ -34,8 +33,7 @@
 
 ####Magic Words
 * Advanced Developer Tools -AZ
-* What is a programming language? -AZ
-* Programming languages and their relationships to web pages
+
 
 * Looking deeper at HTML 
 	* Validation
@@ -43,19 +41,10 @@
 
 * Looking deeper at CSS
 	* The limits of CSS
-	* Why preprocessors
-		* [SASS](main sass site XXXX)
-		* [Less](main less site XXXX)
-		* [Compiling SASS and LESS yourself](googleXXXX)
 	
-
 * Scrape and break
 	* Pick and download a basic web page to your local environment and start playing around with it
 * Real-world examples from Ním
-
-### Talking about freelancing
-* Quick review and discussion of questions asked on Friday and other FAQs about freelancing and how to do it
-
 
 
 ##Friday
@@ -153,7 +142,6 @@ Tools vary by browser version.
 
 
 #CSS HIERARCHY
----------------------------------
 
 More Specific ALWAYS WINS
 
@@ -164,3 +152,20 @@ From specific to general:
 3. CLASS - .article
 4. TAG - div
 5. DOCUMENT INHERITANCE  
+
+
+#Push to Next week
+---------------------------------
+* What is a programming language? -AZ
+* Programming languages and their relationships to web pages
+
+
+
+Why preprocessors
+
+* [SASS](main sass site XXXX)
+* [Less](main less site XXXX)
+* [Compiling SASS and LESS yourself](googleXXXX)
+
+### Talking about freelancing
+* Quick review and discussion of questions asked on Friday and other FAQs about freelancing and how to do it
