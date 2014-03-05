@@ -10,7 +10,7 @@
 	* [IDEs](xxxx) vs text editors
 	* Becoming a SublimeText Power User -AZ
 
-* [Chrome Developer tools](https://developers.google.com/chrome-developer-tools/)
+* [Chrome Developer tools](https://developers.google.com/chrome-developer-tools/) XXXX
 	* Code inpectors on other browsers
 		- Firefox: [Web Developer](https://addons.mozilla.org/en-US/firefox/addon/web-developer/?utm_source=Code+Scouts&utm_campaign=281f029887-Newsletter_06_07_20136_8_2013&utm_medium=email&utm_term=0_6fe7c0a699-281f029887-62930889) & [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
 		- Safari [Web Inspector](https://developer.apple.com/safari/tools/)
