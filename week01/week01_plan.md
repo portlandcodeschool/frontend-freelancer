@@ -1,3 +1,6 @@
+*Portland Code School*
+
+Front End Freelancer Course
 #Week 1
 
 ##Activities
@@ -157,4 +160,8 @@ Extras
 [CSS Reference](http://www.w3schools.com/cssref/default.asp)
 
 [GIT for grown ups](http://24ways.org/2013/git-for-grownups/)
+
+<hr />
+Copyright © 2014 Alan Zimmerman & Nìm Wunnan<br />
+Used by permission by Portland Code School
 
