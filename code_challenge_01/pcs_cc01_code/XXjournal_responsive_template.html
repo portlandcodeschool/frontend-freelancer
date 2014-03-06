@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- The doctype declares the type of coding the HTML page uses so that the browser knows how to render it. -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-- The  html tag contains everything on the page: head and body-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <!-- The "head" container includes all the information the browser needs to display the page -->
+  <head>
+    <!-- the "meta" tag is used to provide, ah, meta-information about the page. 
+         This one is another method to the browser what this content is and what character set we are using 
+    -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <!-- edit the title to include your name and make it in possessive case (http://englishplus.com/grammar/00000364.htm) -->
+    <title>student name Journal</title>
+    
+    <!-- The "link" tag identifies your external CSS style sheet. Edit this link to use your particular file  -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/XXjournal_responsive.css" />
+  	
+    <!-- the "style" tag container includes this page's unique style rules -->
+    <style type="text/css">
+  		p {color: #111111;}
+  	</style>
+  </head>
+
+  <!-- The "body" tag container includes the structure and content of the page -->
+  <body>
+
+    <div class="container"> <!-- contains everything on the page; used for centering and margins-->
+
+    	<div class="header"> <!-- contains the constant stuff at the top of the page -->
+        <div class="validation_badge">
+
+        <!-- replace this html with the html snippets that displays your validation badges. -->
+        <p>
+          <img src="images/html_validation_badge_mockup.png" 
+               alt="replace this with the HTML validator badge code snippet" 
+               height="31" 
+               width="88" 
+          />
+        </p>
+        <!-- Notice that the indentation style of the second segment of code is all on one line. Which one is more readable for you? -->
+        <p>
+          <img src="images/css_validation_badge_mockup.png" alt="replace this with the CSS validator badge code snippet" height="31" width="88" />
+        </p>
+      </div>
+
+    	<div class="page_heading">
+        <!-- replace "student name" with your name and make it in possesive case (http://englishplus.com/grammar/00000364.htm) -->
+        <h1><i>student name</i> Journal</h1>
+    	</div>
+    	<div class="author_information">
+        <a href="mailto:student@email.com">student@email.com</a>
+    	</div>
+    </div>
+
+    		
+    	<!-- every time you update the page, create a new article 
+    	you can copy this section of code (everything in the div.article container) and change the contents 
+    	-->
+
+    	<div class="article">
+      	<div class="article_heading">
+      	 <h1>This is a weekly journal entry</h1> <i>mm/dd/yyyy - replace with the date and a subject line of your choice</i>
+      	</div>
+      	<div class="article_content">
+          <p>This is a weekly journal entry paragraph and other stuff 
+          -- replace with with your observations and anything else 
+          required by that week's assignment.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra ultricies nibh, in interdum tellus ultrices id. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse urna lorem, imperdiet a mattis sed, blandit id elit. Proin id ultrices odio. Vivamus ut nisl nulla. Proin consectetur urna vitae est fermentum in placerat elit condimentum. Morbi iaculis elit sit amet lacus convallis a semper risus elementum.</p>
+      	</div>		
+    	</div>
+
+      <div class="article">
+        <div class="article_heading">
+         <h1>This is another weekly journal entry</h1> <i> mm/dd/yyyy notice how the html for this is basically the same as the one above it.</i>
+        </div>
+        <div class="article_content">
+          <p>Except the stuff in the article content is different.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra ultricies nibh, in interdum tellus ultrices id. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse urna lorem, imperdiet a mattis sed, blandit id elit. Proin id ultrices odio. Vivamus ut nisl nulla. Proin consectetur urna vitae est fermentum in placerat elit condimentum. Morbi iaculis elit sit amet lacus convallis a semper risus elementum.</p>
+
+          <ol>
+            <li>this one</li>
+            <li>also has</li>
+            <li>a list of </li>
+            <li>items</li>
+          </ol>
+
+          <img src="images/image_placeholder.png" alt="and an image placeholder" height="250" width="250" />
+
+        </div>    
+      </div>
+
+
+      <div class="article">
+        <div class="article_heading">
+         <h1>This is week3</h1> <i> mm/dd/yyyy notice how the html for this is basically the same as the one above it.</i>
+        </div>
+        <div class="article_content">
+          <p>Except the stuff in the article content is different.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra ultricies nibh, in interdum tellus ultrices id. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse urna lorem, imperdiet a mattis sed, blandit id elit. Proin id ultrices odio. Vivamus ut nisl nulla. Proin consectetur urna vitae est fermentum in placerat elit condimentum. Morbi iaculis elit sit amet lacus convallis a semper risus elementum.</p>
+
+          <ol>
+            <li>this one</li>
+            <li>also has</li>
+            <li>a list of </li>
+            <li>items</li>
+          </ol>
+
+          <img src="images/image_placeholder.png" alt="and an image placeholder" height="250" width="250" />
+
+        </div>    
+      </div>
+    	<!-- the footer area sits at the bottom of the page under all of the journal entries -->
+
+    	<div class="footer">
+        <!-- edit the footer to include your name  -->
+    	 Copyright &copy; 2014 <i>student name</i>
+    	</div>
+  	</div>  <!-- .container -->
+
+    <!-- This is where you link to this page's javascript file. -->
+  	<script src="scripts/XXjournal.js" type="text/javascript"></script>
+
+    <!-- The "script" tag can also contain actual scripts that get executed immediately as the page finishes loading -->
+
+    <script type="text/javascript">
+      initializePage(); // this function is used to perform any scripts needed on the page.
+    </script>
+  </body>
+</html>
