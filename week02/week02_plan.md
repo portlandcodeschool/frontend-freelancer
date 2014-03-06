@@ -8,23 +8,22 @@
 * Overview of code editors
 	* [ST](http://www.sublimetext.com/) vs [Espresso](http://macrabbit.com/espresso/) vs plaintext editor
 	* [IDEs](xxxx) vs text editors
-	* Becoming a SublimeText Power User -AZ
 
-* [Chrome Developer tools](https://developers.google.com/chrome-developer-tools/) XXXX
+* [Chrome Developer tools](https://developers.google.com/chrome-developer-tools/) 
 	* Code inpectors on other browsers
 		- Firefox: [Web Developer](https://addons.mozilla.org/en-US/firefox/addon/web-developer/?utm_source=Code+Scouts&utm_campaign=281f029887-Newsletter_06_07_20136_8_2013&utm_medium=email&utm_term=0_6fe7c0a699-281f029887-62930889) & [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
 		- Safari [Web Inspector](https://developer.apple.com/safari/tools/)
 		- IE [Developer Toolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)
-	* Testing, writing CSS XXXX
+	* Testing, writing CSS 
 	* Editing HTML live
-		* [Saving work from Code inspector](XXXX)
-		* [Using JS Fiddle](XXXX jsfiddle site)
+		* Saving work from Code inspector
+		* Benefits of editing in an editor, not Chrom Dev Tools
+		* [Using JS Fiddle](http://jsfiddle.net)
 	
 ###"Coding" vs "Programming" vs "Web Development"
 * Magic words and meta-words
-* Basic structures and ideas of HTML XXXX
-	* If most students are familiar with the structure of HTML and can clearly describe the concepts, this can shift to a Q&A 
-* Basic structures and ideas of CSS XXXX
+* Basic structures and ideas of HTML 
+* Basic structures and ideas of CSS 
 
 
 ##Wednesday
@@ -32,29 +31,51 @@
 ### In the code
 
 ####Magic Words
-* Advanced Developer Tools -AZ
-
+* Advanced Developer Tools
 
 * Looking deeper at HTML 
 	* Validation
 	* Things you see on screen and things you don't
-
-* Looking deeper at CSS
-	* The limits of CSS
 	
 * Scrape and break
 	* Pick and download a basic web page to your local environment and start playing around with it
+	
 * Real-world examples from Ním
 
 
 ##Friday
+
+* Learning New Tools: Sublime Text
+* Looking deeper at CSS & The limits of CSS
+* Overview of code challenge
+* Two week class retrospective
+
+
+
 ### Code Challenge #1
 * Build from scratch a static page that you can host on your local environment. Project is delivered by committing it to the class repo.
+* More details will be available Friday.
 
 
 
 ## Assignment
 
+ 
+0. Report your hours and progress on the assignments to Nìm and Al by Sunday night.
+ 
+0. Explore the resources given below. Even if you don't understand why these are needed, at least you'll get an idea of the diversity of tools.
+ 
+0. Earn the next two badges in the [Treehouse Web Design Track](http://teamtreehouse.com/tracks/web-design). These are part of the "Build a Simple Website" course. If you've already dones so, great! If you've covered this material before, just take the quizzes. Otherwise, watch the screencasts and take the quizzes. Note: We will not use "Launching the Website" at this time.
+	* Creating a Website Structure
+	* Styling Content
+ 
+0. Earn the [Chrome DevTools Basics](http://teamtreehouse.com/library/website-optimization) badge.
+ 
+0. Do the next lesson in the [Code Academy Web Track](http://www.codecademy.com/tracks/web): "HTML Structure: Using Lists", including
+	* HTML Basics II
+	* Social Networking Profile
+
+Note: These lessons are embedding all CSS language in the element tags in a *style* attribute. This technique helps you mentally associate the style with the tag. Later, we'll explore separating the style from the content as we've discussed in class. 
 
 
 ### Development Resources -- Getting Started
