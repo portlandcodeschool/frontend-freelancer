@@ -69,6 +69,7 @@ The success criteria for this assignment are:
 ## Code samples, snippets and pseudo code 
 
 See the supplied files in the folder "pcs_cc01_code". 
+
 ````
 $ tree pcs_cc01_code/
 pcs_cc01_code/
