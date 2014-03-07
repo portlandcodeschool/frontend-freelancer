@@ -8,7 +8,7 @@ Front End Freelancer Course
 
 We have two goals for this code challenge:
 
-1. Take an existing design that uses an old form of HTML and bring it up to current standards, adding content and some simple styling, and making sure it is valid, standards-based code.
+1. Take an existing design that uses an old form of HTML, adding content and some simple styling, attempting to make it is valid, standards-based code.
 
 2. Start working as a team in the simplest way possible.
 
