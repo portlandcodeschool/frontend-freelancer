@@ -1,7 +1,7 @@
   // Put your javascript functions in this file
 
 
-initializePage() {
+function initializePage() {
 
 	// this function is used to perform any scripts needed on the page. 
 
