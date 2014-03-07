@@ -32,10 +32,6 @@
 
 ####Magic Words
 * Advanced Developer Tools
-
-* Looking deeper at HTML 
-	* Validation
-	* Things you see on screen and things you don't
 	
 * Scrape and break
 	* Pick and download a basic web page to your local environment and start playing around with it
@@ -46,6 +42,9 @@
 ##Friday
 
 * Learning New Tools: Sublime Text
+* Looking deeper at HTML 
+	* Validation
+	* Things you see on screen and things you don't
 * Looking deeper at CSS & The limits of CSS
 * Overview of code challenge
 * Two week class retrospective
@@ -53,7 +52,7 @@
 
 
 ### Code Challenge #1
-* Build from scratch a static page that you can host on your local environment. Project is delivered by committing it to the class repo.
+* Build from scratch a static page that you can host on your local environment. 
 * More details will be available Friday.
 
 
