@@ -174,18 +174,3 @@ From specific to general:
 5. DOCUMENT INHERITANCE  
 
 
-#Push to Next week
----------------------------------
-* What is a programming language? -AZ
-* Programming languages and their relationships to web pages
-
-
-
-Why preprocessors
-
-* [SASS](main sass site XXXX)
-* [Less](main less site XXXX)
-* [Compiling SASS and LESS yourself](googleXXXX)
-
-### Talking about freelancing
-* Quick review and discussion of questions asked on Friday and other FAQs about freelancing and how to do it
