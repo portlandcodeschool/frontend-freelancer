@@ -104,4 +104,11 @@
 * How to quote fairly and strategically
 * How to keep from overworking
 
+
 ###Code Challenge #2 Assignment
+
+###Using your computer like a computer person (no more than 20 mins)
+* Virtues of laziness
+* Automation
+* Customization
+* Assuming that the machine should do the work, not you
