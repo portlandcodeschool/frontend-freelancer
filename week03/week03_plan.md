@@ -112,3 +112,23 @@
 * Automation
 * Customization
 * Assuming that the machine should do the work, not you
+
+## Assignment
+
+ 
+0. Report your hours and progress on the assignments to Nìm and Al by Sunday night.
+ 
+0. Work with your team to accomplish [Code Challenge 01](../code_challenge_01/code_challenge_01_instructions.md) by your self-imposed deadline.
+ 
+0. Earn the the following three badges in the [Treehouse Web Design Track](http://teamtreehouse.com/tracks/web-design). These are part of the "CSS Foundations" Deep Dive course. 
+
+	* [Getting Started with CSS](http://teamtreehouse.com/library/css-foundations#getting-started-with-css)
+	* [Selectors](http://teamtreehouse.com/library/css-foundations#selectors)
+	* [The Box Model](http://teamtreehouse.com/library/css-foundations#the-box-model)
+ 
+ 
+0. Do the following lessons in the [Code Academy Web Track](http://www.codecademy.com/tracks/web): "Introduction to CSS", including
+	* CSS: An Overview
+	* Design a Button for Your Web Site
+
+
