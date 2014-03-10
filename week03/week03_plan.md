@@ -123,7 +123,7 @@ Front End Freelancer Course
  
 0. Report your hours and progress on the assignments to Nìm and Al by Sunday night.
  
-0. Work with your team to accomplish [Code Challenge 01](../code_challenge_01/code_challenge_01_instructions.mdt) by your self-imposed deadline.
+0. Work with your team to accomplish [Code Challenge 01](../code_challenge_01/code_challenge_01_instructions.md) by your self-imposed deadline.
  
 0. Earn the the following three badges in the [Treehouse Web Design Track](http://teamtreehouse.com/tracks/web-design). These are part of the "CSS Foundations" Deep Dive course. 
 
@@ -131,7 +131,7 @@ Front End Freelancer Course
 	* [Selectors](http://teamtreehouse.com/library/css-foundations#selectors)
 	* [The Box Model](http://teamtreehouse.com/library/css-foundations#the-box-model)
  
-0. Earn the the following three badges in the [Treehouse Git Basics](http://teamtreehouse.com/library/git-basics). These are part of the "Git Basics" Deep Dive course. 
+0. Earn the the following badges in the [Treehouse Git Basics](http://teamtreehouse.com/library/git-basics). These are part of the "Git Basics" Deep Dive course. 
 
 	* Branches
 	* Merging
