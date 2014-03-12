@@ -98,7 +98,7 @@ Front End Freelancer Course
 	
 ### Introducing Progamming (11:00AM)
 * Meta-Words vs. Magic Words
-	* Variables
+	* [Variables](http://jsforcats.com/#basics)
 	* Functions 
 * What is a programming language? -AZ
 	* Introducing the third panel of the Code Inspector (and JS Fiddle) -- Console
