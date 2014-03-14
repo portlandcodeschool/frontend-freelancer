@@ -22,7 +22,7 @@ Wireframes are in the "wireframes.pdf" file.
  
 ##The Template
 
-The template file comes from the previous code challenge. If want to continue to modify your previous results, do so. You may also start fresh using the same template.
+The template file comes from the previous code challenge. It uses the convention of structuring with ```<div>``` elements and class names. If want to continue to modify your previous results, do so. You may also start fresh using the same template. 
 
 You will find some of the existing code and HTML / CSS techniques useful.
 
@@ -55,15 +55,15 @@ The contents of the site go in a `<container>` div. The container should float i
 
 **Question for discussion:**
 
-* *Is an HTML5 [`<section>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section) element appropriate for this container?*
+* *Is an HTML5 [`<section>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section) element appropriate for this full page container or is the <div> element the right choice?*
 
 The background of the page (everything outside the container div) should be either white, black, or the darkest color of the color palette. 
 
-Notice that there are healthy margins around all of the divs inside the container. This provides whitespace among the content that opens up the design, lets it "breathe", and leads to a more engaging customer experience.
+Notice that there are healthy margins around all of the elements inside the container. This provides "whitespace" among the content that opens up the design, lets it "breathe", and leads to a more engaging customer experience.
 
 ##The Header
 
-The header should contain the site title in an h1 container, the site tagline in an an h2 container, and the logo. The logo should float to the right. The header should appear on every page. Use an HTML5 [`<header>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header) element to define this section.
+The header div now contains the site title in an h1 container, the site tagline in an an h2 container, and the logo. The logo should float to the right. The header should appear on every page. Use an HTML5 [`<header>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header) element to define this section.
 
 ##The Navigation Panel
 
@@ -123,23 +123,25 @@ For the logo the photographer is "The Tedster" and the link is:
 
 In this iteration, we add a nav panel, use "floats" to put the nav panel and the content panel side by side, and start transitioning towards a flexible, responisve layout.
 
-#####HTML
+#####HTML Structure
 
-1. Convert `<header>` and `<footer>` into appropriate HTML5 elements.
-2. Create a div after the "header" and before the "footer" that contains all the articles. Assign it a class="main". 
-2. Create a div *inside* `<main>` div that contains all the articles. Assign it a class="articles".
-3. Create a `<nav>` element *inside* the `<main>` div but *before* the `<articles>` div. 
+1. Convert the current divs into appropriate `<header>` and `<footer>` HTML5 elements.
+2. Create a `<section>` after the "header" and before the "footer". Assign it a class="main". 
+2. Create a section *inside* the main section that contains all the articles. Assign it a class="articles".
+3. Replace each `<div class="article">` div with an `<article>` element.
+3. Create a `<nav>` element *inside* the `<main>` div but *before* the `<articles>` section. 
 4. Put a non-breaking space in the `<nav>` __OR__ make a set of one-sentence paragraphs `<p>` __OR__ create an unordered list `<ul>` of one-sentence list items `<li>`. This will become our site menu.
+5. 
 
 #####CSS
 
 7. Change the `<article_heading>` div to be 80% so that it flexes inside the new containing divs
 0. Add a "clear:both" rule to both the header and footer so the floats don't apply to them.
 5. Make `<nav>` 30% wide and float it to the left using the appropriate CSS rules (look them up: "width", "min-width", "max-width" and "float").
-6. Make `<articles>` 70% wide. Float it to the left also, so it snugs up against `<nav>`.
+6. Make the articles section 70% wide. Float it to the left also, so it snugs up against `<nav>`.
 7. Make sure there's lots of negative space between the nav panel and the main content panel.
 
-While you are playing with your new divs, keep this in mind:
+While you are playing with your new sections and divs, keep this in mind:
 
 * You can set the background color to your divs as you work so they are easier to see
 
@@ -178,9 +180,10 @@ Google and other robot spiders expect one -- and *only one* -- h1 on each page t
 ##Iteration 4
 
 1. Create the other two pages. (Simple, huh?)  
+2. Copy the header and footer to the new pages.
 2. Modify the nav panel on the main page to include links to the other pages.
 3. Make the links on the other pages link back to the main page.
-4. Copy the header and footer to the new pages.
+
 
 ## Iteration 5 - optional extra credit
 Use a media query to make the following modifications when the screen width is less than 600 pixels.
