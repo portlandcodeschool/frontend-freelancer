@@ -1,0 +1,111 @@
+/* 
+
+This file contains all your CSS style rules. 
+indent = 2 spaces, not tabs 
+
+Reference: http://www.w3schools.com/css/default.asp
+
+*/
+
+/* because every browser has a built in stylesheet we have to reset those properties that we want to manipulate later. We do this by setting those properties to zero for the entire HTML document and any other tag selectors we want to redefine from scratch*/
+
+html h1 {
+  margin: 0;
+}
+
+/* next we set up those properties that we want to apply everywhere that is visible on the page using the body selector. Notice the "font-family" */
+
+body {
+  font-size: 1.1em;
+  font-family: "Helvetica Neue", Helvetica, Verdana, sans-serif;
+  background-color: #0f0f0f
+}
+
+/* The container sits in the middle of the page and is a fixed width Reference: http://www.w3schools.com/css/css_boxmodel.asp
+*/
+
+.container {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #aaaaaa;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+
+}
+
+/* The next set of styles pretty much just "open up" the page and create white space */
+
+.header {
+  margin: 20px;
+}
+ 	
+.page_heading {
+    margin-left: 20px;
+} 
+	
+.contact_information {
+    margin-left: 20px;
+}
+
+/* we want the validation pages to appear on the right side of the page inside the container */
+
+.validation_badge {
+  float: right;
+}
+
+.article {
+  margin: 20px;
+}
+
+.article_heading {
+  width: 600px;
+  margin-left: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  background-color: #dddddd;
+
+}
+
+.article_content {
+  margin: 0 20px 0 20px;
+  padding: 10px;
+  border: 1px solid gray;
+  background-color: #ffffff;
+
+}
+
+.prompt_text {
+  font-size: 24px;
+  padding-left: 10px;
+  color: #000;
+}
+.form_field_table {
+  margin-left: 30px;
+  border: none;
+}
+.form_field_table td {color: #00f;}
+
+form {
+  color: #00f;
+}
+.buttons {
+  float: right;
+}
+
+.float_right {
+  float: right;
+}
+
+/* finally, the footer stretches across the whole page width in an open, centered sort of way. */
+.footer {
+  font-size: .80em;
+  min-height: 40px;
+  text-align: center;
+  margin: 20px;
+
+}
+
+
+
