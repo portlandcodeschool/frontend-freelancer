@@ -130,11 +130,22 @@ Front End Freelancer Course
 
 ###Anything That's Not Not Work is Work (30 mins)
 * Time management
+	* looking at the way that you spend your time working alone
+	* looking at project breakdowns 
 * Team communications
+	* [Trello](http://trello.com)
+	* Harvest
+	* Basecamp
+	* Other tools 
 * Client communications
+	* Email strategies
+	* Setting boundaries 
 * "Onboarding" and "Code switching"
 * Research / Discovery
+	* When not to be learning 
 * How to quote fairly and strategically
+	* Fixed price vs hourly
+	* Hybrid strategies 
 * How to keep from overworking
 
 
@@ -152,6 +163,12 @@ Front End Freelancer Course
 * Assuming that the machine should do the work, not you
 * DRY
 
+## Real World Example -- Wordpress site
+* Css Selectors in Wordpress
+* Working as a team
+* Deployment
+
+
 ## Additional Reference
 ---------------------------------
 [Grunt](http://gruntjs.com/) (a task runner that handles various compilations)
@@ -164,6 +181,14 @@ Front End Freelancer Course
 
 [MDN - CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
+### On Freelancing
+[Useful legal docs](http://www.smashingmagazine.com/2012/08/15/free-download-useful-legal-documents-for-designers-pdf/#)
+
+[Short form design contract](https://www.docracy.com/5152/short-form-design-contract)
+
+[Another contract example](https://www.docracy.com/3884/contract-of-works-for-web-design)
+
+[What to say when asked to work for free](http://www.thestar.com/business/personal_finance/2013/11/19/what_to_say_when_youre_asked_to_work_for_free.html)
 
 ## Assignment
 
