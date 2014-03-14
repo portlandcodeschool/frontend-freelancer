@@ -146,6 +146,7 @@ Front End Freelancer Course
 * How to quote fairly and strategically
 	* Fixed price vs hourly
 	* Hybrid strategies 
+	* How much to charge
 * How to keep from overworking
 
 
