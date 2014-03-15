@@ -55,7 +55,7 @@ The contents of the site go in a `<container>` div. The container should float i
 
 **Question for discussion:**
 
-* *Is an HTML5 [`<section>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section) element appropriate for this full page container or is the <div> element the right choice?*
+* *Is an HTML5 [`<section>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section) element appropriate for this full page container or is the `<div>` element the right choice?* To answer, consider [the specification](http://www.w3.org/TR/html5/sections.html#the-section-element) where it says, "The section element is not a generic container element. When an element is needed only for styling purposes or as a convenience for scripting, authors are encouraged to use the `div` element instead. A general rule is that the section element is appropriate only if the element's contents would be listed explicitly in the document's outline."
 
 The background of the page (everything outside the container div) should be either white, black, or the darkest color of the color palette. 
 
@@ -125,13 +125,13 @@ In this iteration, we add a nav panel, use "floats" to put the nav panel and the
 
 #####HTML Structure
 
-1. Convert the current divs into appropriate `<header>` and `<footer>` HTML5 elements.
-2. Create a `<section>` after the "header" and before the "footer". Assign it a class="main". 
-2. Create a section *inside* the main section that contains all the articles. Assign it a class="articles".
+1. Convert the current `<div class='header'>` and `<div class='footer'>` elements into appropriate `<header>` and `<footer>` HTML5 elements.
+2. Create a `<div>` after the "header" and before the "footer". Assign it a class="main". 
+2. Create a section *inside* the main section that contains all the articles. Assign it a class="articles". This represents the actual article content.
 3. Replace each `<div class="article">` div with an `<article>` element.
-3. Create a `<nav>` element *inside* the `<main>` div but *before* the `<articles>` section. 
-4. Put a non-breaking space in the `<nav>` __OR__ make a set of one-sentence paragraphs `<p>` __OR__ create an unordered list `<ul>` of one-sentence list items `<li>`. This will become our site menu.
-5. 
+3. Create a `<nav>` element *inside* the `<div class='main'>` div but *before* the `<section class='articles'>` section. 
+4. Put a non-breaking space in the `<nav>` __OR__ make a set of one-sentence paragraphs `<p>` __OR__ create an unordered list `<ul>` of one-sentence list items `<li>`. This will become our site menu. NOTE: If you'd like to learn a little about the wonders of HTML nesting rules, try putting *flow content* inside *phrasing content* (ie a `<ul></ul>` element inside a `<p></p>` element). This a common thing you might think is possible, and most browsers might let you get away with it, but any self-respecting validator will toss it right out because it's against [the rules](http://www.w3.org/TR/html5/dom.html#phrasing-content-1). 
+5. As you make your changes, [validate your code](http://validator.w3.org) to catch any errors
 
 #####CSS
 
@@ -140,10 +140,12 @@ In this iteration, we add a nav panel, use "floats" to put the nav panel and the
 5. Make `<nav>` 30% wide and float it to the left using the appropriate CSS rules (look them up: "width", "min-width", "max-width" and "float").
 6. Make the articles section 70% wide. Float it to the left also, so it snugs up against `<nav>`.
 7. Make sure there's lots of negative space between the nav panel and the main content panel.
+8. As you make your changes, [validate your code](http://jigsaw.w3.org/css-validator/) to catch any errors
+
 
 While you are playing with your new sections and divs, keep this in mind:
 
-* You can set the background color to your divs as you work so they are easier to see
+* You can set the magin and background color of your divs to something bright and garish as you work so they are easier to see
 
 * Use Chrome Developer Tools to adjust the properties until you like them, then edit the CSS files with the resulting values.
 
@@ -160,9 +162,9 @@ Here we create the header & footer.
 1. Change the `<h1>` entry to match the design brief/wireframes. Style the h1 (and only the h1 inside `<header>`) to fit with the site color palette. [See SEO note, below.]
 2. Create the site tag line using your choice of tags and styling
 3. Put in an image tag `<img>` for the logo, float it right. Look at the badges to understand how to do this.
-4. Remove the badges
+4. Replace the badge placeholders with the code snippets awarded by the validators upon successful validation. Do not create the badges with some image you find on the net. Do not write the validator code by hand. *Only the code snippets you earn by successful validation will be accepted.* If you have trouble getting your page to validate, leave the placeholders as they are and get assistance from your instructors.
 5. Move the contact link to the footer
-6. Change the page title (in the "title" container in the "head" of the page) to match the h1 contents.
+6. Change the page title (in the "title" container in the "head" of the page) to match the `<h1>`1 contents.
 7. Make sure `<header>`  behaves well when you squish and stretch your browser. *(What does this mean? We'll discuss.)*
 
 The footer is similar. Make sure it flexes and contains all the information specified above.
@@ -179,14 +181,14 @@ Google and other robot spiders expect one -- and *only one* -- h1 on each page t
 
 ##Iteration 4
 
-1. Create the other two pages. (Simple, huh?)  
+1. Create the other two pages. (Simple, huh? Copy the page you just made and modify it's contents)  
 2. Copy the header and footer to the new pages.
-2. Modify the nav panel on the main page to include links to the other pages.
+2. Modify the nav panel on the main page to include links to the other pages. Use [*relative addressing*](http://www.w3schools.com/tags/att_a_href.asp)
 3. Make the links on the other pages link back to the main page.
 
 
 ## Iteration 5 - optional extra credit
-Use a media query to make the following modifications when the screen width is less than 600 pixels.
+Use a [media query](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) to make the following modifications when the screen width is less than 600 pixels.
 
 1. The logo image should be smaller and in line with the header information.
 1. The nav panel should be smaller and in line after the header.
