@@ -8,12 +8,74 @@ Front End Freelancer Course
 ##Monday
 
 
-### What is a CMS
+### What is a CMS (45 mins - 15 / 15 / 15)
+* [Brief History](http://www.contegro.com/info-center/designers-blog/blog-article/_thread_/a-brief-history-of-cms-development)
+* What need do they fill?
+* Most are written in PHP
+* [There are lots and lots of them](http://www.opensourcecms.com)
+* Some cost money and some don't and some sort of do
+* Central concepts
+	* reusability & repetition
+	* separation of content and structure (in an ideal world)
+	* letting non-developers CRUD content (explain CRUD)
+	* stocking your toolbox with stuff you almost always need
+	
+#### Exercise
+Login to both the [MODX](http://www.opensourcecms.com/scripts/details.php?scriptid=48&name=MODx) and [Wordpress](http://www.opensourcecms.com/scripts/details.php?scriptid=88) live demos and edit content. 
 
-### Git -- merging, branching
+#### The three parts of a CMS
+* Files
+* Database
+* Configuration
 
-### Lab -- install MODX
-### Pick team to present
+### Break
+
+### Git -- merging, branching -- AZ (30 mins)
+
+### Break
+
+### Lab -- install MODX (60 mins)
+
+**Notes**
+
+* Install this in a NEW FOLDER in your local root
+* Find [phpMyAdmin](http://localhost:8888/MAMP/phpmyadmin.php?lang=en-iso-8859-1&language=English)
+* [Installation instructions](http://rtfm.modx.com/revolution/2.x/getting-started/installation)
+* We are using MODX first mainly because it provides an excellent combination of powerful features and relatively straightforward development methods and tools.
+
+**Steps**
+
+* [Download MODX](http://modx.com/download/)
+* What are you downloading?
+* Unzip into /htdocs or /www
+* Look at the code!
+* Follow the [instructions](http://rtfm.modx.com/revolution/2.x/getting-started/installation)
+	* go to /setup to begin process
+* Create admin user with admin / password
+* Login to manager at /manager
+
+### Break
+
+* Understanding the three parts of the CMS
+	* Files: program files and assets
+	* database
+	* configuration
+* Static resource -- files and database linked together
+* Drop your html into the main template
+* View Resource ID 1
+* Understand what the URL means
+	* Find index.php
+	* Change the Query to "2"
+	* Make a new resource and revisit that page
+* Add a dynamic section to your HTML -- [*content] 
+
+
+
+### Announce Code Challenge Presentation: The Ettes 
+
+	
+
+
 
 ##Wednesday
 
@@ -25,7 +87,7 @@ Front End Freelancer Course
 * Templates
 ### Code challenge lab
 ### Feedback on Code Challenge
-### Team presentations
+### Code Challenge Presentation: The Ettes (15 mins)
 
 ##Friday 
 
