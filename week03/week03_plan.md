@@ -32,6 +32,13 @@ Front End Freelancer Course
 	* transformation
 	* rounded corners
 	* text / box shadow 
+	* [Reference of what's new in CSS3](XXXX)	
+###Break
+
+* Meta-Words vs. Magic Words
+* What is a programming language? -AZ
+	* Introducing the third panel of the Code Inspector (and JS Fiddle) -- Console
+* Programming languages and their relationships to web pages
 
 ###Break
 
@@ -50,32 +57,9 @@ Front End Freelancer Course
 
 ### Looking Deeper at CSS Part II
 * Structuring your CSS logically and legibly
-	* Introducing the [Google Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#CSS_Formatting_Rules)
-	* [In the beginning](http://coding.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/)
-	* Excersize in cleaning up messy code.
-			
-			* Pull css from [http://voodoodoughnut.com](http://voodoodoughnut.com)
-			* make it legible, 
-			* identify three best-practices it fails to implement
-			* suggest solutions for each
-			  	
-* [Limitations of bare CSS](http://sass-lang.com/guide)
-	* Nesting
-	* Changes in multiple places
-	* Annoying syntax
-	* Repetition  
-	* Not a programming language (no math)
-* [Revisiting the idea of "semantic"](http://www.threestyles.com/tutorials/5-css-donts-for-beginners/)
+* Limitations of bare CSS
+* Revisiting the idea of "semantic"
 * Relevance to responsiveness
-* What's New in CSS3:
-	* media queries
-	* new pseudo-classes
-	* colors
-	* selectors
-	* namespaces
-	* backgrounds & borders
-	* transitions, transforms, animations
-
 	
 ###Break
 * Why preprocessors?
@@ -85,28 +69,12 @@ Front End Freelancer Course
 	* Mixins
 * [LESS](http://lesscss.org/)
 	* LESS and Bootstrap
-	* What is [Bootstrap](http://getbootstrap.com/2.3.2/scaffolding.html#gridSystem) 
+	* What is Bootstrap 
 * Compiling SASS and LESS yourself
-	* [Codekit](http://incident57.com/codekit/)
-	* [less.app](http://incident57.com/less/)
-	* [compass.app](http://compass.kkbox.com/)  (not to be confused with [Compass](http://compass-style.org/), a css framework!)
-	* [Scout](http://mhs.github.io/scout-app/)
-	* [simpLESS](http://wearekiss.com/simpless)
 	* Using Sublime Text -- AZ
-	
-###Break
-	
-### Introducing Progamming (11:00AM)
-* Meta-Words vs. Magic Words
-	* [Variables](http://jsforcats.com/#basics)
-	* Functions 
-* What is a programming language? -AZ
-	* Introducing the third panel of the Code Inspector (and JS Fiddle) -- Console
-* Programming languages and their relationships to web pages
+	* [LESS compilers](XXXX google it)
 
-###Break
-
-###Code Challenge Lab with supervision - AZ
+### Checkin on Code Challenge (30 - 45 mins)
 * General questions
 * Extra credit needed / appropriate?
 
@@ -116,6 +84,10 @@ Front End Freelancer Course
 		* Control pointer events with :hover
 		* Explain the difference between a pseudo-selector and a standard selector
 		* Look up and implement one Vendor Prefix in CSS
+
+###Break
+
+###Code Challenge Lab with supervision
 
 ###Break
 
@@ -130,23 +102,11 @@ Front End Freelancer Course
 
 ###Anything That's Not Not Work is Work (30 mins)
 * Time management
-	* looking at the way that you spend your time working alone
-	* looking at project breakdowns 
 * Team communications
-	* [Trello](http://trello.com)
-	* Harvest
-	* Basecamp
-	* Other tools 
 * Client communications
-	* Email strategies
-	* Setting boundaries 
 * "Onboarding" and "Code switching"
 * Research / Discovery
-	* When not to be learning 
 * How to quote fairly and strategically
-	* Fixed price vs hourly
-	* Hybrid strategies 
-	* How much to charge
 * How to keep from overworking
 
 
@@ -155,41 +115,8 @@ Front End Freelancer Course
 ###Using your computer like a computer person (no more than 20 mins)
 * Virtues of laziness
 * Automation
-	* AppleScript
-	* Utilities
-	* Serverside scripts used locally
-	* Browser extensions and .js bookmarks
-	* Editing preferences and pref files 
 * Customization
 * Assuming that the machine should do the work, not you
-* DRY
-
-## Real World Example -- Wordpress site
-* Css Selectors in Wordpress
-* Working as a team
-* Deployment
-
-
-## Additional Reference
----------------------------------
-[Grunt](http://gruntjs.com/) (a task runner that handles various compilations)
-
-"[The Many Ways to Use CSS Preprocessors](http://jeffcroft.com/blog/2012/feb/23/many-ways-to-use-css-preprocessors/)"
-
-[CSS3 Intro - 1st Web Designer](http://www.1stwebdesigner.com/css/css3-introduction/)
-
-[CSS3 Preview](http://www.css3.info/preview/)
-
-[MDN - CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-
-### On Freelancing
-[Useful legal docs](http://www.smashingmagazine.com/2012/08/15/free-download-useful-legal-documents-for-designers-pdf/#)
-
-[Short form design contract](https://www.docracy.com/5152/short-form-design-contract)
-
-[Another contract example](https://www.docracy.com/3884/contract-of-works-for-web-design)
-
-[What to say when asked to work for free](http://www.thestar.com/business/personal_finance/2013/11/19/what_to_say_when_youre_asked_to_work_for_free.html)
 
 ## Assignment
 
