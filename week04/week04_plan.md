@@ -30,10 +30,6 @@ Login to both the [MODX](http://www.opensourcecms.com/scripts/details.php?script
 
 ### Break
 
-### Git -- merging, branching -- AZ (30 mins)
-
-### Break
-
 ### Lab -- install MODX (60 mins)
 
 **Notes**
@@ -70,24 +66,29 @@ Login to both the [MODX](http://www.opensourcecms.com/scripts/details.php?script
 * Add a dynamic section to your HTML -- [*content] 
 
 
-
-### Announce Code Challenge Presentation: The Ettes 
-
+### Break
 	
 
-
-
 ##Wednesday
+### Git -- merging, branching -- AZ (30 mins)
 
-### What is a CMS part 2
+###Break
+
+### What is a CMS part 2 - 60 mins, hands-on
 
 ### Basic Structures of MODX
 * Snippets
 * Chunks
 * Templates
-### Code challenge lab
-### Feedback on Code Challenge
+
+### Break
+
 ### Code Challenge Presentation: The Ettes (15 mins)
+
+### Code challenge lab (60 mins)
+
+### Feedback on Code Challenge (concurrent with lab)
+
 
 ##Friday 
 
@@ -110,25 +111,16 @@ Login to both the [MODX](http://www.opensourcecms.com/scripts/details.php?script
 ## Assignment
 
  
-0. Report your hours and progress on the assignments to Nìm and Al by Sunday night.
- 
-0. Work with your team to accomplish [Code Challenge 01](../code_challenge_01/code_challenge_01_instructions.md) by your self-imposed deadline.
- 
-0. Earn the the following three badges in the [Treehouse Web Design Track](http://teamtreehouse.com/tracks/web-design). These are part of the "CSS Foundations" Deep Dive course. 
+0. Watch all [MODX quickstart videos](http://rtfm.modx.com/revolution/2.x/getting-started/video-quick-start-series/) **EXCEPT** the first video about MODX Cloud
+1. Try to create a new template in you local install of MODX
+2. Practice [branching and merging in Git](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging)
 
-	* [Getting Started with CSS](http://teamtreehouse.com/library/css-foundations#getting-started-with-css)
-	* [Selectors](http://teamtreehouse.com/library/css-foundations#selectors)
-	* [The Box Model](http://teamtreehouse.com/library/css-foundations#the-box-model)
- 
-0. Earn the the following badges in the [Treehouse Git Basics](http://teamtreehouse.com/library/git-basics). These are part of the "Git Basics" Deep Dive course. 
+## Reference
 
-	* Branches
-	* Merging
- 
-0. Do the following lessons in the [Code Academy Web Track](http://www.codecademy.com/tracks/web): "Introduction to CSS", including
-	* CSS: An Overview
-	* Design a Button for Your Web Site
-
+* [MODX tutorials](http://rtfm.modx.com/revolution/2.x/getting-started/video-quick-start-series/) -- note, please SKIP the first video about MODX Cloud
+* [MODX documentation](http://rtfm.modx.com/revolution/2.x/)
+* [Wordpress Documentation](http://codex.wordpress.org/)
+* 
 <hr />
 Copyright © 2014 Alan Zimmerman & Nìm Wunnan<br />
 Used by permission by Portland Code School
