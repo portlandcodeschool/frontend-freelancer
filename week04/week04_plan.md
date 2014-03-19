@@ -50,21 +50,6 @@ Login to both the [MODX](http://www.opensourcecms.com/scripts/details.php?script
 * Create admin user with admin / password
 * Login to manager at /manager
 
-### Break
-
-* Understanding the three parts of the CMS
-	* Files: program files and assets
-	* database
-	* configuration
-* Static resource -- files and database linked together
-* Drop your html into the main template
-* View Resource ID 1
-* Understand what the URL means
-	* Find index.php
-	* Change the Query to "2"
-	* Make a new resource and revisit that page
-* Add a dynamic section to your HTML -- [*content] 
-
 
 ### Break
 	
@@ -76,10 +61,29 @@ Login to both the [MODX](http://www.opensourcecms.com/scripts/details.php?script
 
 ### What is a CMS part 2 - 60 mins, hands-on
 
+### Break
+
+* Understanding the three parts of the CMS
+	* Files: program files and assets
+	* database
+	* configuration
+	
 ### Basic Structures of MODX
 * Snippets
 * Chunks
 * Templates
+
+### Making A simple site with MODX
+
+* Static resource -- files and database linked together
+* Drop your html into the main template
+* View Resource ID 1
+* Understand what the URL means
+	* Find index.php
+	* Change the Query to "2"
+	* Make a new resource and revisit that page
+* Add a dynamic section to your HTML -- [*content] 
+
 
 ### Break
 
