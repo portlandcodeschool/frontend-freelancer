@@ -2,11 +2,11 @@
 
 Front End Freelancer Course
 
-
 #Week 4
 
 ##Monday
 
+### What is a CMS
 
 ### What is a CMS (45 mins - 15 / 15 / 15)
 * [Brief History](http://www.contegro.com/info-center/designers-blog/blog-article/_thread_/a-brief-history-of-cms-development)
@@ -52,14 +52,15 @@ Login to both the [MODX](http://www.opensourcecms.com/scripts/details.php?script
 
 
 ### Break
-	
+
+### Git -- merging, branching
+
+### Lab -- install MODX
+### Pick team to present
 
 ##Wednesday
-### Git -- merging, branching -- AZ (30 mins)
 
-###Break
-
-### What is a CMS part 2 - 60 mins, hands-on
+### What is a CMS part 2
 
 ### Break
 
@@ -74,8 +75,6 @@ Login to both the [MODX](http://www.opensourcecms.com/scripts/details.php?script
 * Templates
 
 ### Making A simple site with MODX
-
-* Static resource -- files and database linked together
 * Drop your html into the main template
 * View Resource ID 1
 * Understand what the URL means
@@ -95,36 +94,165 @@ Login to both the [MODX](http://www.opensourcecms.com/scripts/details.php?script
 
 
 ##Friday 
+### Going further with MODX (60 mins)
+	
+Introduction to [MODX](http://modx.com/)
 
-###Code challenge hand-in (30 mins)
+[Bob's Guides](http://bobsguides.com/modx.html) - a handy online overview and comprehensive guide book.
+	
+#####MODX elements
 
-### Code challenge assignment
+* **template** -- blueprint for a webpage
+
+	`HTML + MODX tags`
+* **chunk** -- content
+
+	`[[$content]]`
+* **snippet** -- dynamic output, aka PHP
+
+	`$output = "<p>This is the first line of my snippet.</p>";`
+	`return $output;`
+	
+	* Using snippets
+	* installing via the Package Manager
+	* writing your own
+	* the anatomy of a snippet call
+	
+* **template variable (TV)** -- an extra resource field you create yourself
+
+	`[[*longtitle]]`
+* **plugins** -- custome code that intervenes in system event firing for the MODX engine
+
+* **static resource** -- files and database linked together
+
+* Integrating multiple MODX elements and concepts
+	* Snippets, chunks, and template variables used in a template
+	* Template variables used in a chunk
+
+#####Examples of popular snippets
+
+* [getResources](http://modx.com/extras/package/getresources) = to aggregate content
+
+* [Wayfinder](http://modx.com/extras/package/wayfinder) = to create menus
+
+* [tinyMCE](http://modx.com/extras/package/tinymce) = WYSIWYG editor
+
+* [Gallery](http://modx.com/extras/package/gallery)
+
+* [Code Mirror](http://modx.com/extras/package/codemirror)
+
+###Break
+
+###Resources
+
+
+#####MODX
+[MODX Community Forums](http://forums.modx.com/)
+
+* How to sign up: Go to [MODX registration](http://modx.com/login/).
+
+[Beginner's Guide to MOD](http://wiki.modxcms.com/index.php/Beginner's_Guide_to_MODx)
+
+[MODx Videocasts](http://rtfm.modx.com/revolution/2.x/getting-started/video-quick-start-series/)
+
+[Codingpad's MODx Revolution for Beginners](http://codingpad.maryspad.com/beginner-tutorials/)
+
+[Learning MODx](http://jgulledge.wordpress.com/2010/06/26/learning-modx-tutorial-1-creating-a-template/)
+[Guide to installation and development tutorials with WAMP](http://forums.modx.com/thread/70754/modx-revolution-from-scratch-a-beginner-s-workflow)
+
+
+#####What is a CMS?
+
+[Basic overview](http://docforge.com/wiki/Content_management_system).
+
+
+#####Example Sites
+
+[MODX Site Gallery](http://modx.com/get-modx/modx-site-gallery/)
+
+[12 Great MODX Sites](http://www.designshifts.com/12-great-modx-websites/)
+
+
+#####Basic Intros to PHP
+
+* MF discussion of [php resources](http://ask.metafilter.com/237082/How-can-a-schlump-like-me-learn-PHP-in-the-shortest-possible-time)...
+* [PHP Manual](http://www.php.net/manual/en/getting-started.php)
+* [PHP the Right Way](http://www.phptherightway.com/)
+* [PHP 101 for the Absolute Beginner](http://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/)
+* [PHP Tutorial for Beginners](http://www.webmonkey.com/2010/02/php_tutorial_for_beginners/)
+* Use guides on Treehouse, Code Academy, Khan, [Tutsplus](https://tutsplus.com/course/php-fundamentals/)
+* Books: "PHP for Absolute Beginners" or "PHP Cookbook"
+
+###Break	 
+
+
+###Code challenge hand-in and feedback (30 mins)
+
+### Code challenge assignment (30 mins)
 
 ### Real world examples
 
 ###Break
 
-###Code Challenge #2 Assignment
+#For next week
 
 ###Using your computer like a computer person (no more than 20 mins)
+
 * Virtues of laziness
 * Automation
 * Customization
 * Assuming that the machine should do the work, not you
 
+### Introduction to programming using JavaScript 
+
+* Language, Libraries, Tools, Community
+* Difference between "meta words" (markup) and "magic words" (programming), redux
+* Variables, expressions, statements
+* Control structures - making decisions in the code
+* Loops - doing repetitive tasks made simple
+* Functions - simplify your code, simplify your life
+
+### Introduction to programming tools
+
+* JSFiddle/Code Pen
+* JSHint
+* Chrome Developer Tools
+* The console
+* Debuggers
+
+### JavaScript in a web page
+
+* The two faces of the `<script>` tag
+* Document Object Model - navigation and manipulation
+* Attaching scripts to elements - living the eventful life
+* What if the user turns off JavaScript?
+
+### A programmer's workflow
+
+* Analysis before design - What needs to happen?
+* Design before construction - How should it happen
+* Circumspect construction - write the code you wish you had
+* Finding typos when the language is fragile and just falls over when it's upset
+* Watching the code in action
+
+### Small victories, often obtained
+
+* In-class exercises
+
+
 ## Assignment
 
+ 0. Watch all [MODX quickstart videos](http://rtfm.modx.com/revolution/2.x/getting-started/video-quick-start-series/) **EXCEPT** the first video about MODX Cloud
+ 1. Try to create a new template in you local install of MODX
+ 2. Practice [branching and merging in Git](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging)
  
-0. Watch all [MODX quickstart videos](http://rtfm.modx.com/revolution/2.x/getting-started/video-quick-start-series/) **EXCEPT** the first video about MODX Cloud
-1. Try to create a new template in you local install of MODX
-2. Practice [branching and merging in Git](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging)
-
-## Reference
-
-* [MODX tutorials](http://rtfm.modx.com/revolution/2.x/getting-started/video-quick-start-series/) -- note, please SKIP the first video about MODX Cloud
-* [MODX documentation](http://rtfm.modx.com/revolution/2.x/)
-* [Wordpress Documentation](http://codex.wordpress.org/)
-* 
-<hr />
+ ## Reference
+  
+ * [MODX tutorials](http://rtfm.modx.com/revolution/2.x/getting-started/video-quick-start-series/) -- note, please SKIP the first video about MODX Cloud
+ * [MODX documentation](http://rtfm.modx.com/revolution/2.x/)
+ * [Wordpress Documentation](http://codex.wordpress.org/)
+ 
+ 
+<hr>
 Copyright © 2014 Alan Zimmerman & Nìm Wunnan<br />
 Used by permission by Portland Code School
