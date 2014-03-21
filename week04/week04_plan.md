@@ -75,8 +75,6 @@ Login to both the [MODX](http://www.opensourcecms.com/scripts/details.php?script
 * Templates
 
 ### Making A simple site with MODX
-
-* Static resource -- files and database linked together
 * Drop your html into the main template
 * View Resource ID 1
 * Understand what the URL means
@@ -96,16 +94,32 @@ Login to both the [MODX](http://www.opensourcecms.com/scripts/details.php?script
 
 
 ##Friday 
+### Going furhter with MODX (60 mins)
+* Using snippets
+	* installing via the Package Manager
+	* writing your own
+	* the anatomy of a snippet call  
 
-###Code challenge hand-in (30 mins)
+###Break
 
-### Code challenge assignment
+* Static resource -- files and database linked together
+* Template variables
+* Integrating multiple MODX elements and concepts
+	* Snippets, chunks, and template variables used in a template
+	* Template variables used in a chunk
+
+###Break	 
+
+
+###Code challenge hand-in and feedback (30 mins)
+
+### Code challenge assignment (30 mins)
 
 ### Real world examples
 
 ###Break
 
-###Code Challenge #2 Assignment
+#For next week
 
 ###Using your computer like a computer person (no more than 20 mins)
 * Virtues of laziness
