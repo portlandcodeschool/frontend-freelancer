@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<!-- 
+
+Example 2: Start script from a button, write output to the document. 
+
+This example uses the same javascript loop, 
+but puts it in a function and starts it from a button.
+
+Notice how the script completely replaces the entire document,
+erasing anything previously on the page.
+
+-->
+
+
+<html>
+<head>
+	<title>Basic javascript output from a button</title>
+	
+	<!-- this javascript only executes when the function is called -->
+	<script type="text/javascript">
+	
+		// same code as in Example 1
+		function loop_and_display() {
+			document.write("<p>The script is starting...</p>");
+			for (var i=0; i<10; i++) { 
+				document.write("Times this loop has run: "+i+"<br />");
+			}
+			document.write("<p>The script is done.</p>");		
+		}
+		
+	</script>
+</head>
+
+<body>
+	
+	<h1>Simple output from a script started by a button</h1>
+	<p>This is another example of how document.write() behaves.</p>
+	
+	<!-- Here's the button that calls the script -->
+	<input type="button" onclick="loop_and_display()" value="Run Script" />
+
+	<hr />
+	<p>Next: Modifying the Document Object Model</p>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+#output_area {
+      border:1px solid #a1a1a1;
+      padding:10px 40px; 
+      margin:40px;
+      background:#dddddd;
+      width:600px;
+      -moz-border-radius:25px; /* Firefox */
+      border-radius:25px;
+      -moz-box-shadow: 10px 10px 5px #888888; /* Firefox */
+      box-shadow: 10px 10px 5px #888888;
+      -webkit-box-shadow: 10px 10px 5px #888888; /* Safari and Chrome */
+    }

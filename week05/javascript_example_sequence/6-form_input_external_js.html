@@ -1,0 +1,36 @@
+
+<!DOCTYPE html >
+<html>
+
+	<head>
+		<title>Example 6: External javascript file</title>
+		<link rel="stylesheet" href="6-form_input.css">
+		<script type="text/javascript" src="6-form_input.js"></script>
+	</head>
+
+	<body>
+		<h1>Simple javascript input and output</h1>
+		<p>This page has two demonstrations of how javascript can get input from the user and display output.</p>
+
+		<h2>Output area:</h2>
+
+		<div id="output_area">
+			<p>This is the original text of the output area.</p>
+		</div>
+
+		<hr />
+		<h2>Simple input: Ok or Cancel</h2>
+		<form action="#">
+			<input type="button" onclick="show_confirm()" value="Show a confirmation box and react to it" />
+		</form>
+		
+		<hr />
+		<h2>Simple input: text from a form</h2>
+		<p>This simple form will take your input and display it two ways.</p>
+		<form action="#">
+			<input name="text1" type="text" />
+			<input name="submit" type="button" value="show me" onclick="display_alert_and_window(form.text1.value)" />
+		</form>
+
+	</body>
+</html>

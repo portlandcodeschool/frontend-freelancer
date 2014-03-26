@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Example 5: Buttons and input text fields in forms</title>
+
+	<style type="text/css">
+		#output_area {
+			border:1px solid #a1a1a1;
+			padding:10px 40px; 
+			margin:40px;
+			background:#dddddd;
+			width:600px;
+			-moz-border-radius:25px; /* Firefox */
+			border-radius:25px;
+			-moz-box-shadow: 10px 10px 5px #888888; /* Firefox */
+			box-shadow: 10px 10px 5px #888888;
+			-webkit-box-shadow: 10px 10px 5px #888888; /* Safari and Chrome */
+		}
+	</style>
+
+
+<script type="text/javascript">
+
+// get more input from a confirmation dialog box and react to it
+	function show_confirm()	{
+		var result=confirm("Press a button and watch the output area...");
+		// learn about confirm() here: http://www.w3schools.com/jsref/met_win_confirm.asp
+		
+		var output_area_div=document.getElementById("output_area"); 
+		var button; // this stores the string that represents which button was pressed
+
+		if (result==true) {
+			button = "OK";
+			output_area_div.style.background="#ddeedd"; 
+		} else {
+			output_area_div.style.background="#eedddd"; 
+			button = "Cancel";
+		}
+		output_area_div.innerHTML="<p>You pressed  " + button +"!</p>";
+		
+		alert("You pressed " + button +"!");
+		// learn about alert() here: http://www.w3schools.com/jsref/met_win_alert.asp
+	}
+
+// this function takes a string and displays it
+	function display_alert_and_window(textString) {
+
+		var output_area_div=document.getElementById("output_area"); 	
+		var output_html;
+
+		output_html="<p><strong>You wrote: </strong>";
+		output_html += '"' + textString + '"</p>'; // notice the quotes
+
+		// display in the output area	
+		output_area_div.innerHTML=output_html; 
+		output_area_div.style.background="#ddddee"; 
+		
+		//  display in an alert box 
+		alert (textString) ;
+	}
+
+</script>
+ 
+</head>
+
+<body>
+	<h1>Simple javascript input and output</h1>
+	<p>This page has two demonstrations of how javascript can get input from the user and display output.</p>
+
+	<h2>Output area:</h2>
+
+	<div id="output_area">
+		<p>This is the original text of the output area.</p>
+	</div>
+
+	<!-- this is for demonstrating how to call a javascript function by pressing a button -->
+	<hr />
+	<h2>Simple input: Ok or Cancel</h2>
+	<form action="#">
+		<input type="button" onclick="show_confirm()" value="Show a confirmation box and react to it" />
+	</form>
+	
+	<hr />
+	<!-- this is for demonstrating form input -->
+	<h2>Simple input: text from a form</h2>
+	<p>This simple form will take your input and display it two ways.</p>
+	<form action="#">
+		<input name="text1" type="text" />
+		<input name="submit" type="button" value="show me" onclick="display_alert_and_window(form.text1.value)" />
+	</form>
+
+
+
+</body>
+</html>
