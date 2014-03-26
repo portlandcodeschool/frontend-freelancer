@@ -28,18 +28,19 @@ One way of managing complexity is to put program code in a function. That way, y
 
 Here's an example of a loop:
 
-````
-document.write("<p>The script is starting...</p>");
+```JavaScript
 	<script type="text/javascript">
+		document.write("<p>The script is starting...</p>");
 			for (var i=0; i<10; i++) { 
 				document.write("Times this loop has run: "+i+"<br />");
 			}
 			document.write("<p>The script is done.</p>");
 	</script>
-````
+```
 
 Here's an example of the loop inside a subroutine:
-````
+
+```JavaScript
 	<script type="text/javascript">
 		function loop_and_display() {
 			document.write("<p>The script is starting...</p>");
@@ -49,7 +50,7 @@ Here's an example of the loop inside a subroutine:
 			document.write("<p>The script is done.</p>");
 		}	
 	</script>
-````
+```
 
 Here are some rules of thumb for functions:
 
@@ -63,19 +64,20 @@ Often, buttons are used within forms. The two types of buttons built in to all b
 
 Buttons can be placed on an HTML page all by themselves. Simply use the `<input type="button">` tag. We don't use the button to submit a form, we use the button to call a JavaScript subroutine. We do this using the “on click” attribute.
 
-````
-<input type="button" onclick="javascript_function_name()"> 
-````
+
+```HTML
+	<input type="button" onclick="javascript_function_name()"> 
+```
 
 [Play with functions using the onclick attribute](http://w3schools.com/js/tryit.asp?filename=tryjs_events)
 
 
 Here is an example of HTML that creates a button, labels it, and then calls the JavaScript function that we defined above whenever the user clicks on the button:
 
-````
-	<!-- This button starts the looping script  -->
+
+```HTML
 	<input type="button" onclick="loop_and_display()" value="Run Script" />
-````
+```
 
 When the user clicks the button, the browser calls the function and that loop will run.
 
@@ -83,9 +85,10 @@ When the user clicks the button, the browser calls the function and that loop wi
 
 Every document has a built-in function called `write()`. Here is the line of JavaScript that we have used in our examples:
 
-````
-document.write("Times this loop has run: "+i+"<br />");
-````
+
+```JavaScript
+	document.write("Times this loop has run: "+i+"<br />");
+```
 
 Normally, this function replaces the entire contents of the document. It makes a new web page. But, you can be more specific than that and replace the contents of a single element on the webpage.
 
@@ -98,17 +101,17 @@ To do this, we need two pieces of the puzzle:
 
 First, give the element an ID.
 
-````
-<div id="a_special_block_of_text">
-  <p>Some text</p>
-</div>
-````
+```HTML
+	<div id="a_special_block_of_text">
+	  <p>Some text</p>
+	</div>
+```
 
 Second, use the *get element by ID* built-in function to get the ID of that element, and put the ID in a variable.
 
-````
+```JavaScript
 var element_to_be_changed = getElementById('a_special_block_of_text');
-````
+```
 
 Then, you can use that variable, `element_to_be_changed`, to change that HTML element.
 
@@ -120,30 +123,31 @@ Every element on the page has a property called `innerHTML()`. It allows your sc
 
 The JavaScript statement that replaces the HTML for an element looks like this:
 
-````
-HTMLElementObject.innerHTML=text
-````
+```JavaScript
+	HTMLElementObject.innerHTML=text
+```
 
 So, now, let's put it all together.
 
 Here's a <div> with some text:
 
-````
+
+```HTML
 	<div id="output_area">
 		<p>This is the area where the text goes. This content appears before the script is run.</p>
 	</div>
-````
+```
 
 Here's the code that changes the html inside that div to something new.
 
-````
+```JavaScript
 	<script type="text/javascript">
 		function put_new_html_in_a_div() {
 			var the_new_html="<p>The new text.</p>";
 			document.getElementById("output_area").innerHTML=the_new_html;
 		}	
 	</script>
-````
+```
 
 <hr>
 Copyright © 2014 Alan Zimmerman & Nìm Wunnan<br />
