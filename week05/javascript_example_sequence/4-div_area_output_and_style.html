@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<!-- 
+
+Example 4: change styles as well as content. 
+
+Only new code is commented.
+
+-->
+
+<html>
+<head>
+	<title>Script output into a div area with style</title>
+	<style>
+		#output_area {
+		    border:1px solid #a1a1a1;
+		    padding:10px 40px; 
+			margin:40px;
+		    background:#dddddd;
+		    width:600px;
+		    -moz-border-radius:25px; /* Firefox */
+		    border-radius:25px;
+		    -moz-box-shadow: 5px 5px 5px #888888; /* Firefox */
+		    box-shadow: 5px 5px 5px #888888;
+		    -webkit-box-shadow: 5px 5px 5px #888888; /* Safari and Chrome */
+		 }
+	</style>
+
+	<script type="text/javascript">
+
+		function loop_and_display() {
+			// New in this example
+			// since we are doing more with the div,
+			// let's save the id in a variable
+			var output_area_div=document.getElementById("output_area"); 	
+			var output_html;
+		
+			output_html="<p>The script is starting...</p>";
+			for (var i=0; i<10; i++) {
+				output_html= output_html + "Times this loop has run: "+i+"<br />"; 
+			}
+			output_html += "<p>The script is done.</p>";
+			output_area_div.innerHTML=output_html; 
+			
+			// New in this example
+			// change a style property of the div element
+			output_area_div.style.background="#ddddee"; 
+			// learn more at http://www.w3schools.com/jsref/dom_obj_style.asp
+		}
+	
+		function clear_output_div() {
+			// New in this example : id variable
+			var output_area_div=document.getElementById("output_area"); 
+			// New in this example : change style
+		  	output_area_div.style.background="#ddeedd"; 
+			output_area_div.innerHTML="<p>Click the <em>Run Script</em> button.</p>"	
+		}
+
+</script>
+</head>
+
+<body>
+<h1>Output to a specific area on the page and change the style</h1>
+<p>We can change the style as well as content of page elements</p>
+
+<h2>Output area:</h2>
+<div id="output_area">
+	<p>This is the area where the output goes. This content appears before the script is run.</p>
+</div>
+
+<hr />
+<input type="button" onclick="loop_and_display()" value="Run Script" />
+<input type="button" onclick="clear_output_div()" value="Clear" />
+
+<hr />
+<p>Next: JavaScript and Forms</p>
+
+</body>
+</html>

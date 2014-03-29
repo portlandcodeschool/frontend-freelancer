@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<!-- 
+
+Example 1: A simple javascript loop with output.
+
+This example has a simple loop that outputs to the document.
+
+-->
+
+<html>
+<head>
+	<title>Basic Javascript Output</title>
+</head>
+
+<body>
+	
+	<h1>Simple output that runs as soon as the page loads</h1>
+	<p>This is an example of how document.write() behaves.</p>
+	
+	<!-- this javascript executes as soon as the document is loaded. -->
+	
+	<script type="text/javascript">
+	document.write("<p>The script is starting...</p>"); 
+	// Note how output is HTML
+	// learn more at http://www.w3schools.com/jsref/met_doc_write.asp
+	
+	for (var i=0; i<10; i++) { 
+	// loop counts up and outputs something each time.
+		document.write("Times this loop has run: "+i+"<br />");
+	}
+	
+	document.write("<p>The script is done.</p>");
+	</script>
+	
+	<hr />
+	<p>Next: attaching functions to buttons</p>
+
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<!-- 
+
+Example 3: Write output to a div. 
+
+This example keeps the output on the page by having the javascript 
+write all the output to a buffer, then transfer that buffer to 
+a <div> </div> container on the page.
+
+Modern web design tries to minimize page reloads where possible.
+
+-->
+
+<html>
+<head>
+	<title>Javascript output into a div area</title>
+	<style>
+	/* We want the output area to look a little different from the rest of the page. */
+	#output_area {
+	    border:1px solid #a1a1a1;
+	    padding:10px 40px; 
+		margin:40px;
+	    background:#dddddd;
+	    width:600px;
+	    /* the following properties are kind of new and haven't been standardized, so there's
+		   varieties for different browsers */
+	    -moz-border-radius:25px; /* Firefox */
+	    border-radius:25px;
+	    -moz-box-shadow: 5px 5px 5px #888888; /* Firefox */
+	    box-shadow: 5px 5px 5px #888888;
+	    -webkit-box-shadow: 5px 5px 5px #888888; /* Safari and Chrome */
+	 }
+	 </style>
+
+	<!-- this javascript only executes when the function is called -->
+	<script type="text/javascript">
+
+		function loop_and_display() {
+			var output_html; // this variable (or "buffer") will hold all our HTML until we are ready to output it
+		
+			output_html="<p>The script is starting...</p>"; // start by putting some text in the buffer
+			for (var i=0; i<10; i++) {
+				output_html= output_html + "Times this loop has run: "+ i +"<br />"; // append more text to buffer
+			}
+			output_html += "<p>The script is done.</p>"; // short form of the append operation		
+
+		  	// replace the HTML inside the div with our new html
+			document.getElementById("output_area").innerHTML=output_html;
+			// learn more at http://www.w3schools.com/jsref/met_doc_getelementbyid.asp
+			// learn more at http://www.w3schools.com/jsref/prop_html_innerhtml.asp
+		}
+	
+		function clear_output_div() {
+			document.getElementById("output_area").innerHTML="<p>Click the <em>Run Script</em> button.</p>"	
+		}
+	</script>
+</head>
+
+<body>
+	<h1>Output to a specific area on the page</h1>
+	<p>Now, let's put the loop output in a div</p>
+
+	<h2>Output area:</h2>
+
+	<!-- this area is for demonstrating simple output by replacing the HTML in an element -->
+	<!-- notice how the div starts out with some HTML already in it. This will be replaced. -->
+	<div id="output_area">
+		<p>This is the area where the output goes. This content appears before the script is run.</p>
+	</div>
+
+	<hr />
+	<!-- This button starts the looping script that writes into the div -->
+	<input type="button" onclick="loop_and_display()" value="Run Script" />
+
+	<!-- This button runs a script that writes something else into the div-->
+	<input type="button" onclick="clear_output_div()" value="Clear" />
+
+	<hr />
+	<p>Next: Modifying CSS with JavaScript</p>
+
+</body>
+</html>
