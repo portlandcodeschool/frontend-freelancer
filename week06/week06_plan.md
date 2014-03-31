@@ -94,37 +94,39 @@ AZ -- please fill in
 Students have the chance to ask questions about MODX which haven't been covered but have come up during work on CC03
 		
 	
-### 10:15 Other CMSs -- FK give me direct links to all the below
+### 10:15 Other CMSs
 * Big players 
-	* Wordpress
-	* Drupal
-	* Joomla
-	* Django
-	* ExpressionEngine
-	* Craft
+	* [Wordpress](https://wordpress.org/)
+	* [Drupal](https://drupal.org/)
+	* [Joomla](http://www.joomla.org/)
+	* [Django](https://www.djangoproject.com/)
+	* [ExpressionEngine](http://ellislab.com/expressionengine)
+	* [Craft](https://buildwithcraft.com/)
 * Market-specific CMSs
-	* Shopify
-	* Indexhibit
+	* [Shopify](http://www.shopify.com/)
+	* [Indexhibit](http://www.indexhibit.org/)
 * Site builders
- 	* Squarespace
- 	* Wix
+ 	* [Squarespace](http://www.squarespace.com/)
+ 	* [Wix](http://www.wix.com/)
 * Non-database CMSs
- 	* Kirby
- 	* Jekyll
- 	* Ghost
- 	* Pico
- 	* Statamic
+ 	* [Kirby](http://getkirby.com/)
+ 	* [Jekyll](http://jekyllrb.com/)
+ 	* [Ghost](https://ghost.org/)
+ 	* [Pico](http://picocms.org/)
+ 	* [Statamic](http://www.statamic.com/)
 
 ### 10:45 Break
 
-### 11:00 (with breaks) Anatomy of Wordpress -- FK direct links to any of these items that you can find easily
-* Meaningful file structure
-* Themes
-* Child themes
-* Plugins
-* Widgets
-* The dashboard
-* Customizing appearence
+### 11:00 (with breaks) Anatomy of Wordpress
+* [Meaningful file structure](http://codex.wordpress.org/Site_Architecture_1.5)
+* [Themes](http://codex.wordpress.org/Theme_Development)
+	* more comprehensive [guide to themes](http://codex.wordpress.org/Blog_Design_and_Layout)
+* [Child themes](http://codex.wordpress.org/Child_Themes)
+* [Plugins](http://codex.wordpress.org/Plugins)
+* [Widgets](https://codex.wordpress.org/WordPress_Widgets)
+* The [dashboard](http://codex.wordpress.org/Dashboard_Screen)
+	* more info on [administration screens]()
+* [Customizing appearance](https://codex.wordpress.org/Appearance_Customize_Screen)
 
 
 ##Wednesday
@@ -165,15 +167,50 @@ CC_04 will require teams to use basecamp
 
 ### 11:00 Mimosas / Real Life Examples
 
-RLE - Ruby-envirionment site generators I've worked with
+RLE - Ruby-environment site generators I've worked with
  
 
 ## Resources and further research
 
 ###MODX Advanced development
-FK review and compile links covering input filters, sending parameters to chunks, writing snippets, user management, defining media sources, and modx cloud. also link to docs on the following snippets/ plugins: Wayfinder, MigX, Articles, and http://rtfm.modx.com/extras/revo/spiefeed, CodeMirror, TinyMCE
+
+* [input filters](http://rtfm.modx.com/revolution/2.x/making-sites-with-modx/customizing-content/input-and-output-filters-(output-modifiers)
+* [sending parameters to chunks](http://rtfm.modx.com/revolution/2.x/making-sites-with-modx/structuring-your-site/chunks)
+	* here's another overview [by Bob](http://forums.modx.com/index.php?topic=51748.0)
+* [writing snippets](http://rtfm.modx.com/revolution/2.x/developing-in-modx/basic-development/snippets/how-to-write-a-good-snippet)
+	* here's an [overview of snippets](http://rtfm.modx.com/revolution/2.x/developing-in-modx/basic-development/snippets)
+* [user management](http://rtfm.modx.com/revolution/2.x/administering-your-site/security/users)
+* [defining media sources](http://rtfm.modx.com/revolution/2.x/administering-your-site/media-sources)
+* [modx cloud](https://modxcloud.com/)
+
+###MODX Snippets / Plugins
+
+* [Wayfinder](http://rtfm.modx.com/extras/evo/wayfinder)
+* [MigX](http://rtfm.modx.com/extras/revo/migx)
+* [Articles](http://rtfm.modx.com/extras/revo/articles)
+* [spieFeed](http://rtfm.modx.com/extras/revo/spiefeed)
+* [CodeMirror](http://modx.com/extras/package/codemirror)
+* [TinyMCE](http://modx.com/extras/package/tinymce) & [wiki entry on TinyMCE](http://wiki.modxcms.com/index.php/TinyMCE)
 
 * FK -- need roundup of official Wordpress intro material including everything listed under "Anatomy of Wordpress" above
+
+###Wordpress Documentation
+
+[The Codex](http://codex.wordpress.org/)
+
+###Anatomy of Wordpress
+
+* [Meaningful file structure](http://codex.wordpress.org/Site_Architecture_1.5)
+* [Themes](http://codex.wordpress.org/Theme_Development)
+	* more comprehensive [guide to themes](http://codex.wordpress.org/Blog_Design_and_Layout)
+* [Child themes](http://codex.wordpress.org/Child_Themes)
+* [Plugins](http://codex.wordpress.org/Plugins)
+* [Widgets](https://codex.wordpress.org/WordPress_Widgets)
+* The [dashboard](http://codex.wordpress.org/Dashboard_Screen)
+	* more info on [administration screens]()
+* [Customizing appearance](https://codex.wordpress.org/Appearance_Customize_Screen)
+
+###Where Is the CMS Going?
 
  0. [Non-database CMSs will take over](http://www.typeandgrids.com/blog/goodbye-wordpress-2014-will-be-the-year-of-flat-file-cmses)
  0. [Non-database CMSs will not take over](http://www.ostraining.com/blog/general/2014-static-websites/)
