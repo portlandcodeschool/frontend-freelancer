@@ -8,6 +8,7 @@ Front End Freelancer Course
 ## MODX
 **Concepts in this section**
 
+* Review static elements. UNDERSTAND THEM COMPLETELY
 * Understand how chunks, snippets, and template variables interact
 * Learn common structures for using these elements together
 * Learn how to navigate the manager and how to structure a site
@@ -192,6 +193,29 @@ RLE - Ruby-environment site generators I've worked with
 * [CodeMirror](http://modx.com/extras/package/codemirror)
 * [TinyMCE](http://modx.com/extras/package/tinymce) & [wiki entry on TinyMCE](http://wiki.modxcms.com/index.php/TinyMCE)
 
+###getResources example
+
+``` 
+[[!getResources? 
+    &tpl=`articleTpl`
+    &sortby=`menuindex`
+    &includeContent=`1`
+    ]]
+```
+### Basic template example
+
+```
+<html>
+<head>
+  <title>[[++site_name]] - [[*pagetitle]]</title>
+  <base href="[[++site_url]]" />
+</head>
+  <body>
+    [[*content]]
+  </body>
+</html>
+```    
+    
 ###Wordpress Documentation
 
 [The Codex](http://codex.wordpress.org/)
