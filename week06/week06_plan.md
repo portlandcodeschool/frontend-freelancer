@@ -202,6 +202,16 @@ RLE - Ruby-environment site generators I've worked with
     &includeContent=`1`
     ]]
 ```
+
+### Basic chunk-as-tpl example
+
+```
+	<h2>[[+pagetitle]]</h2>
+	<p>[[+content]]</p>
+	<hr>
+	<p>This is the end of the article. Go away</p>
+```
+
 ### Basic template example
 
 ```
