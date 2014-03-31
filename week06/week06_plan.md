@@ -192,8 +192,6 @@ RLE - Ruby-environment site generators I've worked with
 * [CodeMirror](http://modx.com/extras/package/codemirror)
 * [TinyMCE](http://modx.com/extras/package/tinymce) & [wiki entry on TinyMCE](http://wiki.modxcms.com/index.php/TinyMCE)
 
-* FK -- need roundup of official Wordpress intro material including everything listed under "Anatomy of Wordpress" above
-
 ###Wordpress Documentation
 
 [The Codex](http://codex.wordpress.org/)
