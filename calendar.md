@@ -19,38 +19,53 @@ Week 2
 Week 3
 --------
 * Career: Tools and techniques for a lifetime of learning
-* TBD
+* Code Challenge 02
 
 Week 4
 --------
-* TBD
+* 
 * Career: Presenting yourself and what you've learned
-* Code Challenge 02
+* Code Challenge 03
 * Assessment checkpoint
 
 Week 5
 --------
-* TBD
+* Introduction to JavaScript
+* CMS development
+* Career: Class visit from a recruiting company
 
 Week 6
 --------
-* TBD
-* Code Challenge 03
+* Navigating new CMSs
+* Wordpress skills
+* Meet jQuery
+* Introducing Basecamp
+* Career: Picking personal focus
 * Assessment checkpoint
+* Code Challenge 04
+
 
 Week 7
 --------
-* TBD
+* Grid systems incl. Twitter bootstrap
+* Intro to jQuery
+* Deploying a CMS
+* Tech community visit
+
 
 Week 8
 --------
-* TBD
-* Code Challenge 04
+* UI patterns
+* Craft and Expression Engine
+* Navigating and troubleshooting PHP
+* jQuery part 2
+* Code Challenge 05
 * Assessment checkpoint
 
 Week 9
 --------
-* TBD
+* jQuery + CSS + good design for good UX
+* HTML 5 canvas, audio, video
 * Product development: What makes a good capstone project
 
 Week 10
@@ -58,7 +73,6 @@ Week 10
 * TBD
 * Product development: Capstone project pitches from business partners
 * Product development: Making meaning, creating value, the pitch
-* Code Challenge 05
 * Assessment checkpoint
 
 Week 11
