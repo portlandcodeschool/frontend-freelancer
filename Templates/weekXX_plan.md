@@ -4,11 +4,25 @@ Front End Freelancer Course
 
 #Week X
 
+#What we'll cover this week
+
+## Section
+**Concepts in this section**
+
+* thing
+* other thing
+
+## Assignment
+
+ 0. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. [Resource](XXXX)
+ 0. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. [Resource](XXXX)
+
+
+<hr>
+
 ##Monday
 
 ### 9:00 What we'll cover this week
-* thing
-* other thing
 
 ### Break
 
@@ -38,11 +52,6 @@ Front End Freelancer Course
 
 ### 11:00 Mimosas / Real life examples
 
-
-## Assignment
-
- 0. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. [Resource](XXXX)
- 0. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam laoreet metus, id elementum tellus vulputate et. [Resource](XXXX)
 
 ## Resources and further research
  0. [Lorem ipsum dolor sit amet, consectetur adipiscing elit.](XXXX)
