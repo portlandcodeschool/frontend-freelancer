@@ -12,23 +12,32 @@ Front End Freelancer Course
 * Understand how chunks, snippets, and template variables interact
 * Learn common structures for using these elements together
 * Learn how to navigate the manager and how to structure a site
-* Review resources to learn more advanced development, including 3rd party snippets
 
 *Includes a Q&A about anything we have covered so far*
 
-## Other CMSs
-* Big players 
-* Non-database CMSs
-* Market-specific CMSs
-* Site builders
-	
+## Career / Feedback
+* Begin thinking about areas of focus
+* Opportunity to request deeper coverage in certain areas
+
+
+## Introducing Basecamp
 **Concepts in this section**
 
-* Each CMS has its own strengths and weaknesses
-* Not all of them are written in PHP
-* Some don't use databases
-* Some run entirely in the browser
-* When picking a CMS, understand the reasons behind its creation (ask, "What need does this meet?")
+* Understand how to use Basecamp to collaborate as a team
+* To-do lists, calendars, projects, and discussions
+* Using Basecamp to communicate with clients 
+
+## Role playing as a CMS
+* Understand in greater detail the different stages in rendering a page in a CMS
+* Be able to abstract these steps and apply them to other CMSs
+* Use this understanding to represent a custom field (a "template variable" in MODX)
+
+## Getting Data in and Out of a Database Review
+* How to connect to a MySQL database
+* Using Sequel Pro
+* Understand what tables, columns, rows, and fields are
+* Import and export data from a database
+* Relationship of configuration to data
 
 ## Anatomy of Wordpress
 **Concepts in this section**
@@ -38,33 +47,8 @@ Front End Freelancer Course
 * How to navigate the admin, or dashboard
 * Customizing themes and settings without writing code
 
-## Career / Feedback
-* Begin thinking about areas of focus
-* Opportunity to request deeper coverage in certain areas
-
-## Wordpress continued
-**Concepts in this section**
-
-* Shortcodes
-* The Wordpress "Loop"
-* Wordpress variables
-* How to take apart and edit a theme
-
-## Javascript review
-**Concepts in this section**
-AZ -- please fill in
-
-## Introducing Basecamp
-**Concepts in this section**
-
-* Understand how to use Basecamp to collaborate as a team
-* To-do lists, calendars, projects, and discussions
-* Using Basecamp to communicate with clients 
 
 ## CC_03 lab
-## Javascript review continued
-**Concepts in this section**
-AZ -- please fill in
 
 ## Week review
 ## CC_04 release
@@ -95,30 +79,55 @@ AZ -- please fill in
 Students have the chance to ask questions about MODX which haven't been covered but have come up during work on CC03
 		
 	
-### 10:15 Other CMSs
-* Big players 
-	* [Wordpress](https://wordpress.org/)
-	* [Drupal](https://drupal.org/)
-	* [Joomla](http://www.joomla.org/)
-	* [Django](https://www.djangoproject.com/)
-	* [ExpressionEngine](http://ellislab.com/expressionengine)
-	* [Craft](https://buildwithcraft.com/)
-* Market-specific CMSs
-	* [Shopify](http://www.shopify.com/)
-	* [Indexhibit](http://www.indexhibit.org/)
-* Site builders
- 	* [Squarespace](http://www.squarespace.com/)
- 	* [Wix](http://www.wix.com/)
-* Non-database CMSs
- 	* [Kirby](http://getkirby.com/)
- 	* [Jekyll](http://jekyllrb.com/)
- 	* [Ghost](https://ghost.org/)
- 	* [Pico](http://picocms.org/)
- 	* [Statamic](http://www.statamic.com/)
 
-### 10:45 Break
+##Wednesday
 
-### 11:00 (with breaks) Anatomy of Wordpress
+### 9:00 Career planning -- your stack
+
+You should start thinking about your strengths and weaknesses and the things that interest you the most. Next week you will have to give a lightning talk on your planned course of study and where you think it will lead you for your capstone.
+
+### 9:10 break
+
+###9:15 MODX structural exercise (45 - 60 min)
+A get-out-of-your-seat activity! The goal is to play-act the passage of information through the different moving parts of MODX, passing information between students assembly-line-style in a sequence that represents what MODX is doing. This should clarify the inner workings of MODX and CMSs in general, and introduce the concept of template variables, which are required in CC_03.
+
+Using the restaurant metaphor as a jumping-off-point, the class should divide the whole room into different regions according to the different parts of the MODX page rendering workflow:
+
+
+* Back-end
+	* The manager 
+	* Database
+	* The MODX API
+	* index.php
+	* the DB cache
+	* static elements (files corresponding to elements)
+* The browser
+	* Rendered HTML from index.php
+	* Stylesheets
+	* Javascript
+
+### 10:15 Break
+
+### 10:25 Databases
+* Review how to access and navigate phpMyadmin
+* Referencing the [MODX quickstart video](https://vimeo.com/68094979), show how to find phpMyadin through a popular hosting C-Panel such as GoDaddy 
+* Introduce Sequel Pro
+* Show basic MySQL command line interaction
+* Show the relationship between the DB configuration and the credentials for logging into each
+* Review the idea of tables, columns, rows, and fields
+* Show, in a very basic way, how SQL operates on these aspects of the database
+* Explain, at a very high level, that the MODX API uses PHP to map the strucutre of the database to functions and variables (really objects) that you can use to build the page and do more complex, application-like things with the data. 
+
+### 11:00 Break
+
+### 11:10 Introducing Basecamp
+
+### 11:30 CC03 lab and CC02 student feedback
+* Announce alteration of CC03 timeline
+
+
+##Friday 
+### 9:00 (with breaks) Anatomy of Wordpress
 * [Meaningful file structure](http://codex.wordpress.org/Site_Architecture_1.5)
 * [Themes](http://codex.wordpress.org/Theme_Development)
 	* more comprehensive [guide to themes](http://codex.wordpress.org/Blog_Design_and_Layout)
@@ -128,40 +137,8 @@ Students have the chance to ask questions about MODX which haven't been covered 
 * The [dashboard](http://codex.wordpress.org/Dashboard_Screen)
 	* more info on [administration screens]()
 * [Customizing appearance](https://codex.wordpress.org/Appearance_Customize_Screen)
-
-
-##Wednesday
-
-### 9:00 Career planning -- your stack
-
-You should start thinking about your strengths and weaknesses and the things that interest you the most. Next week you will have to give a lightning talk on your planned course of study and where you think it will lead you for your capstone.
-
-### 9:10 break
-### 9:15 Wordpress Part II
-* Review of materials from Monday
-* Wordpress placeholders compared to MODX placeholders
-* [The loop](https://codex.wordpress.org/The_Loop)
-* **Hands-on** Taking apart a theme 
-
 ### 10:00 Break
-
-### 10:15 Javascript Review -- AZ
-* Returning of the DOM
-
-### 11:00 Break
-
-### 11:10 Introducing Basecamp
-
-### 11:30 CC 03 lab
-
-
-
-##Friday 
-### 9:00 Javascript review Part 2 - AZ
-### 9:30 Break
-### 9:35 Week review -  Javascript
-### 10:00 Break
-### 10:05 Week review - Wordpress and MODX
+### 10:05 Week review - Basecamp, Wordpress and MODX
 ### 10:40 CC_04 release
 
 CC_04 will require teams to use basecamp
@@ -248,15 +225,94 @@ RLE - Ruby-environment site generators I've worked with
  0. [Non-database CMSs will not take over](http://www.ostraining.com/blog/general/2014-static-websites/)
 
 <hr>
-#Rollover 
+#Rollover
+<hr>
+
+* Review resources to learn more advanced development, including 3rd party snippets 
 * Writing Sass
+### 9:00 Javascript review Part 2 - AZ
 
 ### 9:20 Writing Sass 
 * [Structuring your project](http://thesassway.com/beginner/how-to-structure-a-sass-project) 
 * Practice turning some of your own code into SASS
 	* Look for repeated parent elements
 	* Look for sections of related content
-* Converting SASS with your editor  		
+* Converting SASS with your editor  
+
+### 10:15 Other CMSs
+* Big players 
+	* [Wordpress](https://wordpress.org/)
+	* [Drupal](https://drupal.org/)
+	* [Joomla](http://www.joomla.org/)
+	* [Django](https://www.djangoproject.com/)
+	* [ExpressionEngine](http://ellislab.com/expressionengine)
+	* [Craft](https://buildwithcraft.com/)
+* Market-specific CMSs
+	* [Shopify](http://www.shopify.com/)
+	* [Indexhibit](http://www.indexhibit.org/)
+* Site builders
+ 	* [Squarespace](http://www.squarespace.com/)
+ 	* [Wix](http://www.wix.com/)
+* Non-database CMSs
+ 	* [Kirby](http://getkirby.com/)
+ 	* [Jekyll](http://jekyllrb.com/)
+ 	* [Ghost](https://ghost.org/)
+ 	* [Pico](http://picocms.org/)
+ 	* [Statamic](http://www.statamic.com/)
+
+### 10:45 Break
+
+
+
+### 10:15 Javascript Review -- AZ
+* Return of the DOM
+
+### 9:15 Wordpress Part II
+* Review of materials from Monday
+* Wordpress placeholders compared to MODX placeholders
+* [The loop](https://codex.wordpress.org/The_Loop)
+* **Hands-on** Taking apart a theme 
+
+
+
+
+
+
+## Other CMSs
+* Big players 
+* Non-database CMSs
+* Market-specific CMSs
+* Site builders
+	
+**Concepts in this section**
+
+* Each CMS has its own strengths and weaknesses
+* Not all of them are written in PHP
+* Some don't use databases
+* Some run entirely in the browser
+* When picking a CMS, understand the reasons behind its creation (ask, "What need does this meet?")
+
+## Wordpress continued
+**Concepts in this section**
+
+* Shortcodes
+* The Wordpress "Loop"
+* Wordpress variables
+* How to take apart and edit a theme
+
+## Javascript review
+**Concepts in this section**
+AZ -- please fill in
+
+
+## Javascript review continued
+**Concepts in this section**
+AZ -- please fill in
+
+
+
+
+ 	
   
 <hr>
 Copyright © 2014 Alan Zimmerman & Nìm Wunnan<br />
