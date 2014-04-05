@@ -129,6 +129,10 @@ Using the restaurant metaphor as a jumping-off-point, the class should divide th
 	* [More about chunks](http://rtfm.modx.com/revolution/2.x/making-sites-with-modx/structuring-your-site/chunks)
 	* here's another overview [by Bob](http://forums.modx.com/index.php?topic=51748.0)
 * [defining media sources](http://rtfm.modx.com/revolution/2.x/administering-your-site/media-sources)
+* [input filters](http://rtfm.modx.com/revolution/2.x/making-sites-with-modx/customizing-content/input-and-output-filters-(output-modifiers)
+* [user management](http://rtfm.modx.com/revolution/2.x/administering-your-site/security/users)
+* [modx cloud](https://modxcloud.com/)
+
 
 ###MODX Snippets / Plugins
 
@@ -171,139 +175,6 @@ Using the restaurant metaphor as a jumping-off-point, the class should divide th
   </body>
 </html>
 ```    
-
-
-<hr>
-#Rollover
-<hr>
-
-* Review resources to learn more advanced development, including 3rd party snippets 
-* Writing Sass
-### 9:00 Javascript review Part 2 - AZ
-
-### 9:20 Writing Sass 
-* [Structuring your project](http://thesassway.com/beginner/how-to-structure-a-sass-project) 
-* Practice turning some of your own code into SASS
-	* Look for repeated parent elements
-	* Look for sections of related content
-* Converting SASS with your editor  
-
-### 10:15 Other CMSs
-* Big players 
-	* [Wordpress](https://wordpress.org/)
-	* [Drupal](https://drupal.org/)
-	* [Joomla](http://www.joomla.org/)
-	* [Django](https://www.djangoproject.com/)
-	* [ExpressionEngine](http://ellislab.com/expressionengine)
-	* [Craft](https://buildwithcraft.com/)
-* Market-specific CMSs
-	* [Shopify](http://www.shopify.com/)
-	* [Indexhibit](http://www.indexhibit.org/)
-* Site builders
- 	* [Squarespace](http://www.squarespace.com/)
- 	* [Wix](http://www.wix.com/)
-* Non-database CMSs
- 	* [Kirby](http://getkirby.com/)
- 	* [Jekyll](http://jekyllrb.com/)
- 	* [Ghost](https://ghost.org/)
- 	* [Pico](http://picocms.org/)
- 	* [Statamic](http://www.statamic.com/)
-
-### 10:45 Break
-
-
-
-### 10:15 Javascript Review -- AZ
-* Return of the DOM
-
-###Wordpress Documentation
-
-[The Codex](http://codex.wordpress.org/)
-
-###Anatomy of Wordpress
-
-* [Meaningful file structure](http://codex.wordpress.org/Site_Architecture_1.5)
-* [Themes](http://codex.wordpress.org/Theme_Development)
-	* more comprehensive [guide to themes](http://codex.wordpress.org/Blog_Design_and_Layout)
-* [Child themes](http://codex.wordpress.org/Child_Themes)
-* [Plugins](http://codex.wordpress.org/Plugins)
-* [Widgets](https://codex.wordpress.org/WordPress_Widgets)
-* The [dashboard](http://codex.wordpress.org/Dashboard_Screen)
-	* more info on [administration screens]()
-* [Customizing appearance](https://codex.wordpress.org/Appearance_Customize_Screen)
-
-### 9:00 Databases
-* Review how to access and navigate phpMyadmin
-* Referencing the [MODX quickstart video](https://vimeo.com/68094979), show how to find phpMyadin through a popular hosting C-Panel such as GoDaddy 
-* Introduce Sequel Pro
-* Show basic MySQL command line interaction
-* Show the relationship between the DB configuration and the credentials for logging into each
-* Review the idea of tables, columns, rows, and fields
-* Show, in a very basic way, how SQL operates on these aspects of the database
-* Explain, at a very high level, that the MODX API uses PHP to map the structure of the database to functions and variables (really objects) that you can use to build the page and do more complex, application-like things with the data. 
-
-
-
-
-
-### 9:15 Wordpress Part II
-* Review of materials from Monday
-* Wordpress placeholders compared to MODX placeholders
-* [The loop](https://codex.wordpress.org/The_Loop)
-* **Hands-on** Taking apart a theme 
-
-### 11:00 Mimosas / Real Life Examples
-
-RLE - Ruby-environment site generators I've worked with
-
-
-
-## Anatomy of Wordpress
-**Concepts in this section**
-
-* Where you put things and what you call them in the Wordpress file structure matters to wordpress
-* What are themes, child themes, plugins, widgets
-* How to navigate the admin, or dashboard
-* Customizing themes and settings without writing code
-
-
-## Other CMSs
-* Big players 
-* Non-database CMSs
-* Market-specific CMSs
-* Site builders
-	
-**Concepts in this section**
-
-* Each CMS has its own strengths and weaknesses
-* Not all of them are written in PHP
-* Some don't use databases
-* Some run entirely in the browser
-* When picking a CMS, understand the reasons behind its creation (ask, "What need does this meet?")
-
-## Wordpress continued
-**Concepts in this section**
-
-* Shortcodes
-* The Wordpress "Loop"
-* Wordpress variables
-* How to take apart and edit a theme
-
-## Javascript review
-**Concepts in this section**
-AZ -- please fill in
-
-
-## Javascript review continued
-**Concepts in this section**
-AZ -- please fill in
-
-
-##Research
-* [input filters](http://rtfm.modx.com/revolution/2.x/making-sites-with-modx/customizing-content/input-and-output-filters-(output-modifiers)
-* [user management](http://rtfm.modx.com/revolution/2.x/administering-your-site/security/users)
-* [modx cloud](https://modxcloud.com/)
-
 
  	
   
