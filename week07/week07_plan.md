@@ -7,10 +7,9 @@ Front End Freelancer Course
 ##Monday
 
 ### 9:00 What we'll cover this week
-* Grid systems incl. Twitter bootstrap <-- Do we need this now? (AZ) -->
 * Intro to jQuery
 * Deploying a CMS
-* Tech community visit
+* Tech community visit <--- What is this referring to? do we have something planned this week?
 * New code challenge
 * Online self assessment
 * lightning talk
