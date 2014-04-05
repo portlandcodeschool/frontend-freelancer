@@ -11,9 +11,9 @@ Front End Freelancer Course
 * Intro to jQuery
 * Deploying a CMS
 * Tech community visit
-*  New code challenge
-*  Online self assessment
-*  lightning talk
+* New code challenge
+* Online self assessment
+* lightning talk
 
 ### Break
 
