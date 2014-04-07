@@ -27,11 +27,22 @@ Front End Freelancer Course
 * How to navigate the admin, or dashboard
 * Customizing themes and settings without writing code
 
-## Tech community visit <--- AZ What is this referring to? do we have something planned this week?
+## Tech community visit 
+
+* There are several community meetups in Portland for all aspects of web development
+* Some include presentations, some are hacking sessions
+* You must attend at least one of these
+* Your mission - meet at least one professional web developer and report back 
+* See assignments, below
 
 ## Discussion: JavaScript Functions & how to learn libraries
 **Concepts in this section**
-AZ -- please fill in
+
+* Functions are encapsulated functionality - you don't care about how they work, just about what they do
+* Functions are the main way of interacting with the user (via the browser and the document object model)
+* Learning all the hundreds of functions involves several activities:
+	* Searching the authoritative documentation (not just Stackoverflow)
+	* 
 
 
 ## Online self assessment
@@ -154,7 +165,7 @@ Using SASS, CSS positioning, and simple JavaScript to implement parallax scrolli
 
 ## Assignment
 
-<-- I really want to give people more "lectures" at home and more "interactive" work in the classrooom. Students have been asking for this as well. (AZ) -->
+<!-- I really want to give people more "lectures" at home and more "interactive" work in the classrooom. Students have been asking for this as well. (AZ) -->
 
  0. Complete the free screencast series [Try jQuery](http://try.jquery.com) -- free registration required
  0. Complete the Treehouse Javascript screencasts at [JavaScript Foundations](http://teamtreehouse.com/library/javascript-foundations) -- You started these a few weeks ago and may have already finished them; make sure you complete the "Functions" and "Objects" badges by Friday. If you already know JS, just do the quizzes. We'll be checking who has the badges.
