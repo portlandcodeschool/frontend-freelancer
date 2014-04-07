@@ -42,13 +42,17 @@ Front End Freelancer Course
 * Functions are the main way of interacting with the user (via the browser and the document object model)
 * Learning all the hundreds of functions involves several activities:
 	* Searching the authoritative documentation (not just Stackoverflow)
-	* 
+	* Solving an increasingly broad range of problems
+	* Coding, coding, coding
 
 
 ## Online self assessment
 **Concepts in this section**
 
-AZ please fill in
+* We will send you a link to a Google form where you'll have the opportunity to check your knowledge of content management systems in general and MODX in particular. 
+* Not a test - "open book" - a catalyst for discussion
+* It's not auto-graded so you'll have to wait for later to see how you did.
+* Due Friday at 9am
 
 ## Lightning Talks
 **Concepts in this section**
@@ -58,7 +62,11 @@ In 5 minutes or less, outline your strengths in Front End Development as you ide
 ## Intro to jQuery
 **Concepts in this section**
 
-AZ - please fill in
+* jQuery is a JavaScript library
+* Makes interacting with browsers and the DOM easier
+* Has a large community of contributors & plugins that do cool stuff
+* Does _not_ replace an in-depth knowledge of JavaScript
+* Increases the danger of _Cargo_ _Cult_ _Code_
 
 
 ## Writing Sass
@@ -70,11 +78,11 @@ AZ - please fill in
 
 ##Interactive JavaScript/jQuery exercise
 **Concepts in this section**
-AZ -- please fill in
 
-## Assignment
-**Concepts in this section**
-AZ -- please fill in
+* We'll learn how to do simple parallax scrolling
+* Responding to browser events
+* Changing CSS properties on the fly
+
 
 
 ## Code Challenge 04
@@ -167,6 +175,11 @@ Using SASS, CSS positioning, and simple JavaScript to implement parallax scrolli
 
 <!-- I really want to give people more "lectures" at home and more "interactive" work in the classrooom. Students have been asking for this as well. (AZ) -->
 
+ 0. Visit a Portland web developer meetup and prepare a lightening talk for next Wednesday
+ 	* The name, time, and focus of the meetup
+ 	* How you foundf out about it
+ 	* The name, company, and typical projects of a particular person you met at the meetup
+ 	* The pros and cons of this meetup from your point of view
  0. Complete the free screencast series [Try jQuery](http://try.jquery.com) -- free registration required
  0. Complete the Treehouse Javascript screencasts at [JavaScript Foundations](http://teamtreehouse.com/library/javascript-foundations) -- You started these a few weeks ago and may have already finished them; make sure you complete the "Functions" and "Objects" badges by Friday. If you already know JS, just do the quizzes. We'll be checking who has the badges.
  0. Complete the Treehouse [How to Make a Website with WordPress](http://teamtreehouse.com/library/how-to-make-a-website-with-wordpress)
@@ -176,14 +189,16 @@ Using SASS, CSS positioning, and simple JavaScript to implement parallax scrolli
  	* [Mixins](http://leveluptuts.com/tutorials/sass-tutorials/4-using-mixins)
  	* [Selector Inheritence](http://leveluptuts.com/tutorials/sass-tutorials/5-selector-inheritance)
  
-## Resources and further research
- #Rollover
+	
+
 <hr>
 
-* Review resources to learn more advanced development, including 3rd party snippets 
 
 
 ##Further Research and Reference
+
+* Review resources to learn more advanced development, including 3rd party snippets 
+
 
 ###Wordpress Documentation
 
@@ -192,6 +207,7 @@ Using SASS, CSS positioning, and simple JavaScript to implement parallax scrolli
 <hr>
 ## Rollover
 
+This material may or may not fit into this week
 
 ## Wordpress continued
 **Concepts in this section**
