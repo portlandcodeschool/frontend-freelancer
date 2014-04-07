@@ -42,6 +42,7 @@ Front End Freelancer Course
 * Functions are the main way of interacting with the user (via the browser and the document object model)
 * Learning all the hundreds of functions involves several activities:
 	* Searching the authoritative documentation (not just Stackoverflow)
+	* Browsing the documentation - like a garden, it will deliver in direct proportion to how much time you spend on it
 	* Solving an increasingly broad range of problems
 	* Coding, coding, coding
 
@@ -198,6 +199,15 @@ Using SASS, CSS positioning, and simple JavaScript to implement parallax scrolli
 ##Further Research and Reference
 
 * Review resources to learn more advanced development, including 3rd party snippets 
+
+
+### Javascript
+
+* [Mozilla Developer Network Javascript page](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Your home base
+* [MDN Events page](https://developer.mozilla.org/en-US/docs/Web/Reference/Events)
+* [jQuery](http://jquery.com) - the home page for the project, the organization, and the library
+* [jQuery reference](http://api.jquery.com)
+
 
 
 ###Wordpress Documentation
