@@ -31,33 +31,31 @@ Week 4
 Week 5
 --------
 * Introduction to JavaScript
-* CMS development
+* CMS development - MODX fundamentals
+* Using Databases
 * Career: Class visit from a recruiting company
 
 Week 6
 --------
-* Navigating new CMSs
-* Wordpress skills
-* Meet jQuery
-* Introducing Basecamp
 * Career: Picking personal focus
 * Assessment checkpoint
 * Code Challenge 04
+* Deploying a CMS
+
 
 
 Week 7
 --------
-* Grid systems incl. Twitter bootstrap
+* Navigating new CMSs
+* Wordpress skills
 * Intro to jQuery
-* Deploying a CMS
 * Tech community visit
 
 
 Week 8
 --------
+* Grid systems incl. Twitter bootstrap
 * UI patterns
-* Craft and Expression Engine
-* Navigating and troubleshooting PHP
 * jQuery part 2
 * Code Challenge 05
 * Assessment checkpoint

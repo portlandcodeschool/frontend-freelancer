@@ -39,6 +39,7 @@ Front End Freelancer Course
 * Import and export data from a database
 * Relationship of configuration to data
 
+
 ## Anatomy of Wordpress
 **Concepts in this section**
 
@@ -46,6 +47,7 @@ Front End Freelancer Course
 * What are themes, child themes, plugins, widgets
 * How to navigate the admin, or dashboard
 * Customizing themes and settings without writing code
+
 
 
 ## CC_03 lab
@@ -91,7 +93,9 @@ You should start thinking about your strengths and weaknesses and the things tha
 ###9:15 MODX structural exercise (45 - 60 min)
 A get-out-of-your-seat activity! The goal is to play-act the passage of information through the different moving parts of MODX, passing information between students assembly-line-style in a sequence that represents what MODX is doing. This should clarify the inner workings of MODX and CMSs in general, and introduce the concept of template variables, which are required in CC_03.
 
+
 Using the restaurant metaphor as a jumping-off-point, the class should divide the whole room into different regions according to the different parts of the MODX page rendering workflow:
+
 
 
 * Back-end
@@ -108,6 +112,7 @@ Using the restaurant metaphor as a jumping-off-point, the class should divide th
 
 ### 10:15 Break
 
+
 ### 10:25 Databases
 * Review how to access and navigate phpMyadmin
 * Referencing the [MODX quickstart video](https://vimeo.com/68094979), show how to find phpMyadin through a popular hosting C-Panel such as GoDaddy 
@@ -118,6 +123,7 @@ Using the restaurant metaphor as a jumping-off-point, the class should divide th
 * Show, in a very basic way, how SQL operates on these aspects of the database
 * Explain, at a very high level, that the MODX API uses PHP to map the strucutre of the database to functions and variables (really objects) that you can use to build the page and do more complex, application-like things with the data. 
 
+
 ### 11:00 Break
 
 ### 11:10 Introducing Basecamp
@@ -127,39 +133,30 @@ Using the restaurant metaphor as a jumping-off-point, the class should divide th
 
 
 ##Friday 
-### 9:00 (with breaks) Anatomy of Wordpress
-* [Meaningful file structure](http://codex.wordpress.org/Site_Architecture_1.5)
-* [Themes](http://codex.wordpress.org/Theme_Development)
-	* more comprehensive [guide to themes](http://codex.wordpress.org/Blog_Design_and_Layout)
-* [Child themes](http://codex.wordpress.org/Child_Themes)
-* [Plugins](http://codex.wordpress.org/Plugins)
-* [Widgets](https://codex.wordpress.org/WordPress_Widgets)
-* The [dashboard](http://codex.wordpress.org/Dashboard_Screen)
-	* more info on [administration screens]()
-* [Customizing appearance](https://codex.wordpress.org/Appearance_Customize_Screen)
+
+### 9:00 Using Sequel Pro 
+
+* Download it for free [here](http://www.sequelpro.com/)
+* Instructions for connecting to [MAMP](http://www.sequelpro.com/docs/Connecting_to_MAMP_or_XAMPP)
+* See screenshots for further reference
+
 ### 10:00 Break
 ### 10:05 Week review - Basecamp, Wordpress and MODX
 ### 10:40 CC_04 release
 
-CC_04 will require teams to use basecamp
-
-### 11:00 Mimosas / Real Life Examples
-
-RLE - Ruby-environment site generators I've worked with
- 
 
 ## Resources and further research
 
-###MODX Advanced development
-
-* [input filters](http://rtfm.modx.com/revolution/2.x/making-sites-with-modx/customizing-content/input-and-output-filters-(output-modifiers)
-* [sending parameters to chunks](http://rtfm.modx.com/revolution/2.x/making-sites-with-modx/structuring-your-site/chunks)
-	* here's another overview [by Bob](http://forums.modx.com/index.php?topic=51748.0)
+###MODX 
 * [writing snippets](http://rtfm.modx.com/revolution/2.x/developing-in-modx/basic-development/snippets/how-to-write-a-good-snippet)
 	* here's an [overview of snippets](http://rtfm.modx.com/revolution/2.x/developing-in-modx/basic-development/snippets)
-* [user management](http://rtfm.modx.com/revolution/2.x/administering-your-site/security/users)
+	* [More about chunks](http://rtfm.modx.com/revolution/2.x/making-sites-with-modx/structuring-your-site/chunks)
+	* here's another overview [by Bob](http://forums.modx.com/index.php?topic=51748.0)
 * [defining media sources](http://rtfm.modx.com/revolution/2.x/administering-your-site/media-sources)
+* [input filters](http://rtfm.modx.com/revolution/2.x/making-sites-with-modx/customizing-content/input-and-output-filters-(output-modifiers)
+* [user management](http://rtfm.modx.com/revolution/2.x/administering-your-site/security/users)
 * [modx cloud](https://modxcloud.com/)
+
 
 ###MODX Snippets / Plugins
 
@@ -202,6 +199,7 @@ RLE - Ruby-environment site generators I've worked with
   </body>
 </html>
 ```    
+
     
 ###Wordpress Documentation
 
@@ -308,8 +306,6 @@ AZ -- please fill in
 ## Javascript review continued
 **Concepts in this section**
 AZ -- please fill in
-
-
 
 
  	
