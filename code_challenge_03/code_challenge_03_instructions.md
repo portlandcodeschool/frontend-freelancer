@@ -27,7 +27,8 @@ Pick a team-member's Code Challenge 02 deliverable to use as a codebase. Startin
 Planning your site architecture and workflow
 
 1. Review existing code, and [draw up your own wireframes](http://balsamiq.com/download/)
-2. Create a new repo for the team that you will clone into the "assets" directory of your MODX site and install a development environment for MODX on all of your local machines.
+2. Create a new repo for the team that you will clone into the "assets" directory of your MODX site and install a development environment for MODX on all of your local machines. MAKE THE REPO THE SAME THING AS ASSETS. NAME IT ASSETS.
+3. MAKE A NEW INSTALL OF MODX
 
 ##Iteration 2
 Getting material into MODX
