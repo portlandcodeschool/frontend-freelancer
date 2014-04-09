@@ -145,6 +145,7 @@ Prepare for this by looking at [JavasScript For Designers](http://rachelnabors.c
 ### 11:45 CC04 release
 
 ##Wednesday
+### Announcement re: categories vs resource groups
 
 ### 9:00 Writing Sass (with breaks)
 * [Structuring your project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
