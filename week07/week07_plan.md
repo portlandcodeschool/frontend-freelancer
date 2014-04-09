@@ -72,9 +72,12 @@ In 5 minutes or less, outline your strengths in Front End Development as you ide
 
 ## Writing Sass
 **Concepts in this section**
+
 * Variables, nesting, and inheritence
 * .sass vs .scss
-* compiling with your code editor
+* converting CSS to SASS
+* Compiling
+* Structuring your project
 
 
 ##Interactive JavaScript/jQuery exercise
@@ -142,14 +145,19 @@ Prepare for this by looking at [JavasScript For Designers](http://rachelnabors.c
 ### 11:45 CC04 release
 
 ##Wednesday
+### Announcement re: categories vs resource groups
 
 ### 9:00 Writing Sass (with breaks)
 * [Structuring your project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
+* [Pull ALA's SASS examples repo](https://github.com/ddemaree/ala_sass_examples)
+* Installing [Scout](http://mhs.github.io/scout-app/) to compile SASS
 * Pure SASS vs Sassy CSS 
 * Practice turning some of your own code into SASS
 	* Look for repeated parent elements
 	* Look for sections of related content
-* [Converting SASS with your editor](http://www.hongkiat.com/blog/sublime-text-compiling-sass/) 
+	* Look for potential variables or mixins
+	* Think of how to organize your files to make them easily understood and edited
+	 	 
 
 ### 9:45 Break
 ### 10:00 Lightning talks
@@ -174,8 +182,6 @@ Using SASS, CSS positioning, and simple JavaScript to implement parallax scrolli
 
 ## Assignment
 
-<!-- I really want to give people more "lectures" at home and more "interactive" work in the classrooom. Students have been asking for this as well. (AZ) -->
-
  0. Visit a Portland web developer meetup and prepare a lightening talk for next Wednesday
  	* The name, time, and focus of the meetup
  	* How you foundf out about it
@@ -199,6 +205,13 @@ Using SASS, CSS positioning, and simple JavaScript to implement parallax scrolli
 ##Further Research and Reference
 
 * Review resources to learn more advanced development, including 3rd party snippets 
+* [Converting SASS with your editor](http://www.hongkiat.com/blog/sublime-text-compiling-sass/)
+	
+		Note: Don't sink too much time into this. Easy to get stuck with errors
+
+* Figure out your version
+* Install Package Control
+* Use Package Control to download the plugin
 
 
 ### Javascript
