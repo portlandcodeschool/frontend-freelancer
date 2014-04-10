@@ -137,7 +137,7 @@ Planning your site architecture and workflow
 ##Iteration 4
 
 * Repeat the steps of Iteration 3 to incorporate more polished styles
-* Pay special attention to any ways in which your new changes or markup have 
+* Pay special attention to any ways in which your new changes or markup have changed or broken mobile styles
 * Look for opportunities to add "would be nice" features without compromising vital features
 
 ##Iteration 5
