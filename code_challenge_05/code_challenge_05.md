@@ -8,11 +8,27 @@ Front End Freelancer Course
 
 *Here's your chance to make a website and fill it with your own content.*
 
-*Create a Wordpress site with roughly the same amount of content your MODX project had, but this time you have to come up with the content too. You will have to make a content plan, draw up wireframes, and structure and populate the site accordingly.*
+Create a Wordpress site with roughly the same amount of content your MODX project had, but this time you have to come up with the content too. You will have to make a content plan, draw up wireframes, and structure and populate the site accordingly.
 
 # Specification
 
-*A description of the final product, including any customer/functional requirements, technical requirements (specific coding practices to use), and non-requirements (areas where the students can use their own judgement or can be omitted).*
+Content plan
+* Write out a client-readable summary of how the content will be organized, from the overall structure of the site down to the editable sections
+* Visually represent this using wireframes using the method of your choosing
+* Specify the reasons behind the structure of the site, showing an understanding of the high-level goals of the client
+
+Like the previous code challenge, your site will have to include the following:
+
+* Dynamic menus
+* A list of articles
+* Stand-alone pages
+* Editable content
+
+* Use a responsive theme
+* Change one item in the header 
+* Create a child theme
+* 
+
 
 ## Discussion
 
