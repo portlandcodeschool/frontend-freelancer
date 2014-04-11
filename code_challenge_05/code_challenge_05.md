@@ -6,13 +6,13 @@ Front End Freelancer Course
 
 # Overview
 
-*Here's your chance to make a website and fill it with your own content.*
+Here's your chance to make a website and fill it with your own content.
 
-*Create a Wordpress site with roughly the same amount of content your MODX project had, but this time you have to come up with the content too. You will have to make a content plan, draw up wireframes, and structure and populate the site accordingly.*
+Create a Wordpress site with roughly the same amount of content your MODX project had, but this time you have to come up with the content too. You will have to make a content plan, draw up wireframes, and structure and populate the site accordingly.
 
 # Specification
 
-*A description of the final product, including any customer/functional requirements, technical requirements (specific coding practices to use), and non-requirements (areas where the students can use their own judgement or can be omitted).*
+The content of the site is up to you. At the very least, make it similar to Code Challenge 03 with a navigation element, a page with multiple entries (like a blog)
 
 ## Discussion
 
