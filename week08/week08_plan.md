@@ -7,9 +7,21 @@ Front End Freelancer Course
 #What We'll Cover This Week
 
 ## Grid systems incl. Twitter bootstrap
+**Concepts in this section**
+
+* A grid system is a set of CSS rules designed to organize a page into rows and columns
+* You can use media queries to change the widths and display rules for these rows and columns to make a responsive site
+* By generalizing the names and concepts to a grid, you save a lot of time using and modifying a grid system
+* 
 ## Wordpress Part II
+**Concepts in this section**
+
 ## UI patterns
+**Concepts in this section**
+
 ## jQuery part 2
+**Concepts in this section**
+
 ## Assessment checkpoint
 
 
