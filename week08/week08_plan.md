@@ -147,6 +147,7 @@ Screencasts
 
 * Watch [Getting Started with Wordpress](http://teamtreehouse.com/library/getting-started-with-wordpress-2)
 * Watch [How to Make a Website with WordPress](http://teamtreehouse.com/library/how-to-make-a-website-with-wordpress)
+* Watch [How to Build a WordPress Theme](http://teamtreehouse.com/library/how-to-build-a-wordpress-theme) but this might bleed over into next week.
 * Watch [jQuery Basics](http://teamtreehouse.com/library/jquery-basics)
 * Watch [Framework Basics] (http://teamtreehouse.com/library/framework-basics), but only the first two badges are required.
 
