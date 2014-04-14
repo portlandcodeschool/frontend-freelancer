@@ -41,9 +41,13 @@ Front End Freelancer Course
 ## Planning your capstone
 **We want your capstone to be as sophisticated and customized to your interests and abilities as possible. Not everyone will work with the same material, and some of you will want to use new technologies that we haven't covered yet. This is an opportunity to go deeper with technologies we have already exposed you to, like HTML5, CSS3, jQuery, etc**
 
-## jQuery part 2
+## jQuery 
 **Concepts in this section**
-TBD from AZ
+
+* Why jQuery exists - history and motivation
+* The jQuery object - a simpler API to the JavaScript API to the DOM
+* jQuery selectors
+* jQuery methods
 
 ## Wordpress lab
 **You should be starting Iteration 2 of CC05 by EOD Wednesday. Use this lab as an opportunity to clarify any issues you may have with installing your theme or other operational issues.**
@@ -95,7 +99,16 @@ TBD from AZ
 ### 10:00 break
 
 
-### 10:15 jQuery part II
+### 10:15 jQuery
+
+* Why jQuery exists - history and motivation
+* The jQuery object - a simpler API to the JavaScript API to the DOM
+* Interactive exercise
+    * Fetching jQuery for use in your site
+    * Using jQuery selectors
+    * Implementing a simple UI pattern with jQuery
+
+
 
 ### 10:45 break
 
@@ -111,17 +124,31 @@ TBD from AZ
 
 ###CC 05 checkin
 
+Be prepared to present your project's 
+
+* Basecamp project with project plan including a status update with hours worked, etc.
+* Customer overview document (in Basecamp)
+* Wireframes document (in Basecamp)
+* technical overivew - what aspects of wordpress you are going to use and how you plan on building the site
+
 
 
 
 ## Assignment
 * Read [this list](http://blog.codinghorror.com/new-programming-jargon/) of invented programming jargon, and try to infer lessons or rules about working on the internet from it.
-* Read the essay "The Planning of Science" in this [Lewis Thomas book](http://faculty.utpa.edu/fowler/csci6175/papers/3_1974_Thomas.pdf)
-* Prepare a technical "shopping list" of technologies you want to use in your capstone. Organize it into material you have expereince with and material you will need to learn. 
+* Read the article [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](http://www.brainpickings.org/index.php/2014/01/29/carol-dweck-mindset/).
+* Read the essay "The Planning of Science" in this [Lewis Thomas book](http://faculty.utpa.edu/fowler/csci6175/papers/3_1974_Thomas.pdf).
+* Prepare a technical "shopping list" of technologies you want to use in your capstone. Organize it into material you have expereince with and material you will need to learn. Examples might include, "WordPress", "MODX", "Mobile Experience", or "Cloud Hosting".
 * Install [Twitter Bootstrap](http://getbootstrap.com/) on your local environment **BY WEDNESDAY MORNING**
 * Install [the LESS app](http://incident57.com/less/) on your machine **BY WEDNESDAY MORNING**
 * Experiment with Bootstrap's examples, using what you know about Sass to navigate the LESS files.
-* AZ - any JS-based assignments?
+
+Screencasts
+
+* Watch [Getting Started with Wordpress](http://teamtreehouse.com/library/getting-started-with-wordpress-2)
+* Watch [How to Make a Website with WordPress](http://teamtreehouse.com/library/how-to-make-a-website-with-wordpress)
+* Watch [jQuery Basics](http://teamtreehouse.com/library/jquery-basics)
+* Watch [Framework Basics] (http://teamtreehouse.com/library/framework-basics), but only the first two badges are required.
 
 <hr>
 
