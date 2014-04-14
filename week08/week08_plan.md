@@ -183,6 +183,26 @@ This material may or may not fit into this week
 * Skeumorphic vs "Metro"
 * Affordance, Icons, and Instructions
 
+### UI Pattern libraries
+Check out a few of these
+
+* [User Interface Design Patterns](http://ui-patterns.com/) - nice combination of examples, annotation, and explanation
+* [Yahoo Design Pattern Library](https://developer.yahoo.com/ypatterns/) - great documentation in the classic pattern language mode but more limited in scope
+* [PatternTap](http://patterntap.com/) - a huge collection of examples without much annotation
+
+
+
+[The Wikipedia article on pattern languages](http://en.wikipedia.org/wiki/Pattern_language) provides a more general introduciton to the power of pattern languages.
+
+[The website of the father of pattern languages, Christopher Alexander](http://www.patternlanguage.com/), shows how he and his community are using patterns to build better cities, towns, and buildings. 
+
+If you want to see a copy of the book that started it all: [A Pattern Language: Towns, Buildings, Construction](http://www.worldcat.org/title/pattern-language-towns-buildings-construction/oclc/3132495), talk to Al or use the given worldcat.org link to find a copy at your local library.
+
+
+
+
+
+
   
 <hr>
 Copyright © 2014 Alan Zimmerman & Nìm Wunnan<br />
