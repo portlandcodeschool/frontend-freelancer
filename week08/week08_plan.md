@@ -6,229 +6,13 @@ Front End Freelancer Course
 
 #What We'll Cover This Week
 
-## Grid systems incl. Twitter bootstrap
+##Stepping back - learning about learning, working on working
+**Concepts in this section**
+
+*You are starting to be conversant in this material. Now that you have a technical foundation, we can talk about learning, thinking, and working styles as they apply to the material*
+
+
 ## Wordpress Part II
-## UI patterns
-## jQuery part 2
-## Assessment checkpoint
-
-
-
-## Other CMSs
-* Big players 
-* Non-database CMSs
-* Market-specific CMSs
-* Site builders
-	
-**Concepts in this section**
-
-* Each CMS has its own strengths and weaknesses
-* Not all of them are written in PHP
-* Some don't use databases
-* Some run entirely in the browser
-* When picking a CMS, understand the reasons behind its creation (ask, "What need does this meet?")
-
-## Anatomy of Wordpress
-**Concepts in this section**
-
-* Where you put things and what you call them in the Wordpress file structure matters to wordpress
-* What are themes, child themes, plugins, widgets
-* How to navigate the admin, or dashboard
-* Customizing themes and settings without writing code
-
-## Tech community visit 
-
-* There are several community meetups in Portland for all aspects of web development
-* Some include presentations, some are hacking sessions
-* You must attend at least one of these
-* Your mission - meet at least one professional web developer and report back 
-* See assignments, below
-
-## Discussion: JavaScript Functions & how to learn libraries
-**Concepts in this section**
-
-* Functions are encapsulated functionality - you don't care about how they work, just about what they do
-* Functions are the main way of interacting with the user (via the browser and the document object model)
-* Learning all the hundreds of functions involves several activities:
-	* Searching the authoritative documentation (not just Stackoverflow)
-	* Browsing the documentation - like a garden, it will deliver in direct proportion to how much time you spend on it
-	* Solving an increasingly broad range of problems
-	* Coding, coding, coding
-
-
-## Online self assessment
-**Concepts in this section**
-
-* We will send you a link to a Google form where you'll have the opportunity to check your knowledge of content management systems in general and MODX in particular. 
-* Not a test - "open book" - a catalyst for discussion
-* It's not auto-graded so you'll have to wait for later to see how you did.
-* Due Friday at 9am
-
-## Lightning Talks
-**Concepts in this section**
-
-In 5 minutes or less, outline your strengths in Front End Development as you identify them, how you will leverage them, and how you will address your weaknesses.
-
-## Intro to jQuery
-**Concepts in this section**
-
-* jQuery is a JavaScript library
-* Makes interacting with browsers and the DOM easier
-* Has a large community of contributors & plugins that do cool stuff
-* Does _not_ replace an in-depth knowledge of JavaScript
-* Increases the danger of _Cargo_ _Cult_ _Code_
-
-
-## Writing Sass
-**Concepts in this section**
-* Variables, nesting, and inheritence
-* .sass vs .scss
-* compiling with your code editor
-
-
-##Interactive JavaScript/jQuery exercise
-**Concepts in this section**
-
-* We'll learn how to do simple parallax scrolling
-* Responding to browser events
-* Changing CSS properties on the fly
-
-
-
-## Code Challenge 04
-**Concepts in this section**
-
-* Make a dynamic menu in your project using the Wayfinder snippet
-* Nest the articles pages below their parent using CSS
-
-##Monday
-
-### 9:00 What we'll cover this week
-
-### 9:15 Break
-
-### 9:20 Other CMSs
-* Big players 
-	* [Wordpress](https://wordpress.org/)
-	* [Drupal](https://drupal.org/)
-	* [Joomla](http://www.joomla.org/)
-	* [Django](https://www.djangoproject.com/)
-	* [ExpressionEngine](http://ellislab.com/expressionengine)
-	* [Craft](https://buildwithcraft.com/)
-* Market-specific CMSs
-	* [Shopify](http://www.shopify.com/)
-	* [Indexhibit](http://www.indexhibit.org/)
-* Site builders
- 	* [Squarespace](http://www.squarespace.com/)
- 	* [Wix](http://www.wix.com/)
-* Non-database CMSs
- 	* [Kirby](http://getkirby.com/)
- 	* [Jekyll](http://jekyllrb.com/)
- 	* [Ghost](https://ghost.org/)
- 	* [Pico](http://picocms.org/)
- 	* [Statamic](http://www.statamic.com/)
- 	
-### 9:50 Break
-
-###10:00 Anatomy of Wordpress (with breaks)
-
-* Installing Wordpress
-* [Meaningful file structure](http://codex.wordpress.org/Site_Architecture_1.5)
-* [Themes](http://codex.wordpress.org/Theme_Development)
-	* more comprehensive [guide to themes](http://codex.wordpress.org/Blog_Design_and_Layout)
-* [Child themes](http://codex.wordpress.org/Child_Themes)
-* [Plugins](http://codex.wordpress.org/Plugins)
-* [Widgets](https://codex.wordpress.org/WordPress_Widgets)
-* The [dashboard](http://codex.wordpress.org/Dashboard_Screen)
-	* more info on [administration screens]()
-* [Customizing appearance](https://codex.wordpress.org/Appearance_Customize_Screen)
-
-### 11:00 Discussion: JavaScript Functions & how to learn libraries
-
-Prepare for this by looking at [JavasScript For Designers](http://rachelnabors.com/javascript-for-designers) and optionally watching [Rachel's Presentation on YouTube](http://youtu.be/rkR0RCfI0XM).
-### Break
-
-### 11:45 CC04 release
-
-##Wednesday
-
-### 9:00 Writing Sass (with breaks)
-* [Structuring your project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
-* Pure SASS vs Sassy CSS 
-* Practice turning some of your own code into SASS
-	* Look for repeated parent elements
-	* Look for sections of related content
-* [Converting SASS with your editor](http://www.hongkiat.com/blog/sublime-text-compiling-sass/) 
-
-### 9:45 Break
-### 10:00 Lightning talks
-### 11:15 Break
-### 11:30 Lab: Sass and JS. Real Life Examples by request
-
-##Friday 
-
-###Week in review
-A quiz/discussion of major topics covered in the prior week(s).
-
-###Interactive JavaScript/jQuery exercise
-
-Using SASS, CSS positioning, and simple JavaScript to implement parallax scrolling. This is a simple set of event listeners that position elements based on window scrolling events. We'll do it first in "raw" JavaScript, then using jQuery.
-
-###Introduction to the next code challenge
-* Team assignments
-* Basecamp setup
-* Problem walkthrough
-* Planning & scheduling activities for new teams
-
-
-## Assignment
-
-<!-- I really want to give people more "lectures" at home and more "interactive" work in the classrooom. Students have been asking for this as well. (AZ) -->
-
- 0. Visit a Portland web developer meetup and prepare a lightening talk for next Wednesday
- 	* The name, time, and focus of the meetup
- 	* How you foundf out about it
- 	* The name, company, and typical projects of a particular person you met at the meetup
- 	* The pros and cons of this meetup from your point of view
- 0. Complete the free screencast series [Try jQuery](http://try.jquery.com) -- free registration required
- 0. Complete the Treehouse Javascript screencasts at [JavaScript Foundations](http://teamtreehouse.com/library/javascript-foundations) -- You started these a few weeks ago and may have already finished them; make sure you complete the "Functions" and "Objects" badges by Friday. If you already know JS, just do the quizzes. We'll be checking who has the badges.
- 0. Complete the Treehouse [How to Make a Website with WordPress](http://teamtreehouse.com/library/how-to-make-a-website-with-wordpress)
- 0. Watch these SASS tutorials 
- 	* [Variables](http://leveluptuts.com/tutorials/sass-tutorials/2-basics-variables-sass)
- 	* [Nesting](http://leveluptuts.com/tutorials/sass-tutorials/3-nesting-your-sass)
- 	* [Mixins](http://leveluptuts.com/tutorials/sass-tutorials/4-using-mixins)
- 	* [Selector Inheritence](http://leveluptuts.com/tutorials/sass-tutorials/5-selector-inheritance)
- 
-	
-
-<hr>
-
-
-
-##Further Research and Reference
-
-* Review resources to learn more advanced development, including 3rd party snippets 
-
-
-### Javascript
-
-* [Mozilla Developer Network Javascript page](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Your home base
-* [MDN Events page](https://developer.mozilla.org/en-US/docs/Web/Reference/Events)
-* [jQuery](http://jquery.com) - the home page for the project, the organization, and the library
-* [jQuery reference](http://api.jquery.com)
-
-
-
-###Wordpress Documentation
-
-[The Codex](http://codex.wordpress.org/)
-
-<hr>
-## Rollover
-
-This material may or may not fit into this week
-
-## Wordpress continued
 **Concepts in this section**
 
 * Shortcodes
@@ -236,11 +20,140 @@ This material may or may not fit into this week
 * Wordpress variables
 * How to take apart and edit a theme
 
-### 9:15 Wordpress Part II
+## Grid systems incl. Twitter bootstrap
+**Concepts in this section**
+
+* A grid system is a set of CSS rules designed to organize a page into rows and columns
+* You can use media queries to change the widths and display rules for these rows and columns to make a responsive site
+* By generalizing the names and concepts to a grid, you save a lot of time using and modifying a grid system
+* Many grid systems include related javascript that rely on the grid system's class names 
+
+## Writing Sass Part II
+**Concepts in this section**
+
+* Review concepts from last week
+* Look closer at Mixins and functions
+* SASS lab
+* Can / should you use SASS in your current code challenge?
+
+
+
+## Planning your capstone
+**We want your capstone to be as sophisticated and customized to your interests and abilities as possible. Not everyone will work with the same material, and some of you will want to use new technologies that we haven't covered yet. This is an opportunity to go deeper with technologies we have already exposed you to, like HTML5, CSS3, jQuery, etc**
+
+## jQuery part 2
+**Concepts in this section**
+TBD from AZ
+
+## Wordpress lab
+**You should be starting Iteration 2 of CC05 by EOD Wednesday. Use this lab as an opportunity to clarify any issues you may have with installing your theme or other operational issues.**
+
+**Look for how your theme implements responsive grid concepts**
+
+<hr>
+
+##Monday
+
+### 9:00 What we'll cover this week
+
+### 9:10 Break
+### 9:15 Stepping back - learning about learning, working on working
+* Discuss the characteristics of this type of work, drawing on your experiences, contrasting it with other work you've done
+* Revisiting some words: agile, GTD, waterfall
+* Identify personal habits both helpful and harmful
+* Discuss meta-work: dealing with tools, distractions, and other people
+* [Fixed vs Growth](http://www.brainpickings.org/index.php/2014/01/29/carol-dweck-mindset/) mindsets
+* Guile, curiosity, and patience
+* Patterns vs. instructions
+* The importance of inference and deconstruction
+* Research vs Goal-oriented work
+
+### 10:00 Break
+
+### 10:10 Wordpress Part II
 * Review of materials from Monday
-* Wordpress placeholders compared to MODX placeholders
+* Wordpress placeholders (functions) compared to MODX placeholders
 * [The loop](https://codex.wordpress.org/The_Loop)
-* **Hands-on** Taking apart a theme 
+* **Hands-on** Taking apart a theme, using Wordpress functions
+
+### 11:00 Break
+
+### 11:05 SASS lab / Capstone planning
+
+**Practice concepts from last week's SASS lesson. During this lab, you'll consult with Ním 1-on-one about your ideas for your capstone**
+
+##Wednesday
+
+### 9:00 Grid systems
+**You should have Twitter Bootstrap and LESS.app installed before this class**
+
+* [Popular systems](http://responsive.vermilion.com/compare.php)
+* [What Bootstrap is](http://getbootstrap.com/)
+* The Grid - rows and columns
+* Play with examples
+
+### 10:00 break
+
+
+### 10:15 jQuery part II
+
+### 10:45 break
+
+### 11:00 Wordpress lab
+**You should be starting Iteration 2 of CC05 by now. Use this lab as an opportunity to clarify any issues you may have with installing your theme or other operational issues.**
+
+**Look for how your theme implements responsive grid concepts**
+
+**Note** Use [this useful plugin](http://wordpress.org/plugins/velvet-blues-update-urls/) if you have to pass a database between a Windows box and a Mac (their local urls will probably be different, as WAMP doesn't use port 8888 in the url)
+
+
+##Friday
+
+###CC 05 checkin
+
+
+
+
+## Assignment
+* Read [this list](http://blog.codinghorror.com/new-programming-jargon/) of invented programming jargon, and try to infer lessons or rules about working on the internet from it.
+* Read the essay "The Planning of Science" in this [Lewis Thomas book](http://faculty.utpa.edu/fowler/csci6175/papers/3_1974_Thomas.pdf)
+* Prepare a technical "shopping list" of technologies you want to use in your capstone. Organize it into material you have expereince with and material you will need to learn. 
+* Install [Twitter Bootstrap](http://getbootstrap.com/) on your local environment **BY WEDNESDAY MORNING**
+* Install [the LESS app](http://incident57.com/less/) on your machine **BY WEDNESDAY MORNING**
+* Experiment with Bootstrap's examples, using what you know about Sass to navigate the LESS files.
+* AZ - any JS-based assignments?
+
+<hr>
+
+
+
+##Further Research and Reference
+
+
+
+### Wordpress
+* [The Wordpress Loop](https://codex.wordpress.org/The_Loop)
+* [The Wordpress Template Hierarchy](https://codex.wordpress.org/Template_Hierarchy)
+* [The Wordpress Template Hierarchy, prettier](http://wphierarchy.com/)
+* [Standard widget reference](XXXX)
+* [Using shortcodes](XXXX)
+* [Advanced widget function reference](http://codex.wordpress.org/Function_Reference/the_widget)
+
+<hr>
+## Rollover
+
+This material may or may not fit into this week
+
+## UI patterns
+**Concepts in this section**
+
+* What we mean by "pattern"
+* Single-page scrollers
+* Snowfall
+* Parallax
+* Responsive conventions
+* Skeumorphic vs "Metro"
+* Affordance, Icons, and Instructions
 
   
 <hr>
