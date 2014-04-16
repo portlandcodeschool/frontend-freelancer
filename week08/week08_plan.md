@@ -105,10 +105,11 @@ Front End Freelancer Course
 
 * Why jQuery exists - history and motivation
 * The jQuery object - a simpler API to the JavaScript API to the DOM
-* Interactive exercise
-    * Fetching jQuery for use in your site
-    * Using jQuery selectors
-    * Implementing a simple UI pattern with jQuery
+* Selection
+* Traversal
+* Manipulation
+* Events
+* Chaining
 
 
 
@@ -132,6 +133,13 @@ Be prepared to present your project's
 * Customer overview document (in Basecamp)
 * Wireframes document (in Basecamp)
 * technical overivew - what aspects of wordpress you are going to use and how you plan on building the site
+
+### jQuery Interactive exercise
+
+* Fetching jQuery for use in your site
+* Using jQuery selection, traversal, manipulation
+* Implementing a simple UI pattern with jQuery
+
 
 
 
