@@ -75,25 +75,27 @@ Front End Freelancer Course
 ### 10:00 Break
 
 ### 10:10 Wordpress Part II
-* Review of materials from Monday
+* Review of materials from last week
 * Wordpress placeholders (functions) compared to MODX placeholders
 * [The loop](https://codex.wordpress.org/The_Loop)
 * **Hands-on** Taking apart a theme, using Wordpress functions
 
 ### 11:00 Break
 
-### 11:05 SASS lab / Capstone planning
+### 11:05 CC03 lab / Capstone planning
 
 **Practice concepts from last week's SASS lesson. During this lab, you'll consult with Ním 1-on-one about your ideas for your capstone**
 
 ##Wednesday
 
 ### 9:00 Grid systems
-**You should have Twitter Bootstrap and LESS.app installed before this class**
+**You should have downloaded Twitter Bootstrap before this class.**
 
 * [Popular systems](http://responsive.vermilion.com/compare.php)
 * [What Bootstrap is](http://getbootstrap.com/)
-* The Grid - rows and columns
+* Discuss installing, LESS
+* [SASS Port of Bootstrap](https://github.com/twbs/bootstrap-sass)
+* [The Grid - rows and columns](http://jsfiddle.net/nimwunnan/gxHd2/)
 * Play with examples
 
 ### 10:00 break
