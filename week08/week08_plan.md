@@ -125,6 +125,12 @@ Front End Freelancer Course
 
 ##Friday
 
+###Video Conferencing with Skype
+
+* An interactive exercise using Skype
+* Prepare to use Skype for your CC05 checkin
+* [See the notes for details](video_conferencing.md)
+
 ###CC 05 checkin
 
 Be prepared to present your project's 
@@ -134,11 +140,7 @@ Be prepared to present your project's
 * Wireframes document (in Basecamp)
 * technical overivew - what aspects of wordpress you are going to use and how you plan on building the site
 
-### jQuery Interactive exercise
 
-* Fetching jQuery for use in your site
-* Using jQuery selection, traversal, manipulation
-* Implementing a simple UI pattern with jQuery
 
 
 
@@ -182,6 +184,12 @@ Screencasts
 ## Rollover
 
 This material may or may not fit into this week
+
+### jQuery Interactive exercise
+
+* Fetching jQuery for use in your site
+* Using jQuery selection, traversal, manipulation
+* Implementing a simple UI pattern with jQuery
 
 ## UI patterns
 **Concepts in this section**
