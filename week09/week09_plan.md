@@ -6,29 +6,50 @@ Front End Freelancer Course
 
 ##What We'll Cover This Week
 
-* Bootstrap and single-page sites
-* Hosting with github pages
 * More Wordpress!
 * More jQuery!!
-
+* Common UI and UX patterns
+* Bootstrap and single-page sites
+* Hosting with github pages
 
 ### Wordpress Review and finish
 **Concepts in this section**
-TBD
+
+* Review of concepts from last week
+* Discussion of how much further into Wordpress we should go
+
+### UI patterns
+**Concepts in this section**
+
+* What we mean by "pattern"
+* Introducing [North](https://github.com/Snugug/north)
+* Recent history of how to present the space of the "page"
+* Responsive conventions / the mobile experience
+* Skeumorphic vs "Metro"
+* Affordance, Icons, and Instructions
+* Anatomy terms
 
 ### Implementing UI patterns using jQuery
 **Concepts in this section**
-TBD
+
+* Most of these come from [Bootstrap's patterns](http://getbootstrap.com/javascript/)
+* [Scrollspy](http://getbootstrap.com/javascript/#scrollspy)
+* [Show/hide](http://www.w3schools.com/jquery/jquery_hide_show.asp)
+* [Modals](http://getbootstrap.com/javascript/#modals)
+* [Tooltips](http://getbootstrap.com/javascript/#tooltips)
 
 ### Single page sites using bootstrap
 **Concepts in this section**
-TBD
 
-### Planning your capstone
-**TBD**
+* Treats separate regions on the page like we used to treat individual pages
+* Can use same or similar CMS structure to create it
+* Linking to ids
+* getbootstrap.com is built with bootstrap. It is an example itself
+* Mix and match [examples](http://getbootstrap.com/getting-started/#examples)
 
 ### Wordpress lab
 **You should finish CC05 by 9am Friday.**
+
 
 
 
@@ -40,7 +61,16 @@ TBD
 
 ### 9:10 Break
 
-### 9:15 Q&A about Wordpress and CC05
+### 9:15 Topics in UX & Usability (???)
+
+* What we mean by "pattern"
+* Introducing [North](https://github.com/Snugug/north) - a pattern library for nearly everything we do
+* [Anti-patterns](https://github.com/Snugug/north#anti-patterns)
+* Recent history of how to present the space of the "page"
+* Responsive conventions / the mobile experience
+* Skeumorphic vs "Metro"
+* Affordance, Icons, and Instructions
+* Anatomy terms
 
 ### 10:00 Break
 
@@ -49,14 +79,25 @@ TBD
 * Adaptation of one of the single page Bootstrap examples
 * See the Assignment section, below.
 
-### 11:00 Break
+### 10:30 break
 
-### 11:15 Topics in UX & Usability (???)
+### 10:40 Single page sites using bootstrap
 
-* Principles
-* Examples of good patterns
-* Anti-patterns
-* How the mobile experience is different from other environments
+* Treats separate regions on the page like we used to treat individual pages
+* Can use same or similar CMS structure to create it
+* Linking to ids
+* getbootstrap.com is built with bootstrap. It is an example itself
+* Mix and match [examples](http://getbootstrap.com/getting-started/#examples)
+
+
+### 11:10 Break
+
+### 11:20 Q&A about Wordpress and CC05
+
+* Review of concepts from last week
+* Opportunity to check in and ask for specific help on CC05 issues
+* Discussion of how much further into Wordpress we should go
+
 
 ##Wednesday
 
@@ -67,12 +108,21 @@ TBD
 * Risks of not staying current on school work
 * Review of student goals
 
-### 10:00 break
+### 9:20 break
+### 9:30 Using jQuery to implement common UX Patterns
 
-### 10:15 Simple hosting with github pages
+* Introducing [jQuery UI](https://jqueryui.com/)
+* [Scrollspy](http://getbootstrap.com/javascript/#scrollspy)
+* [Show/hide](http://www.w3schools.com/jquery/jquery_hide_show.asp)
+* [Modals](http://getbootstrap.com/javascript/#modals)
+* [Tooltips](http://getbootstrap.com/javascript/#tooltips)
 
-There is a simple way to host a website stored in a github repository - [github pages](https://pages.github.com). We'll do a short demonstration of how this works.
+### 10:15 break
+### 10:25 Bootstrap -- a closer look
 
+* Q&A about exploring the codebase
+* [Bootstrap on Wordpress](http://320press.com/wpbs/)
+* Hands-on example of combining Bootstrap elements
 
 ### 11:00 break
 
@@ -86,8 +136,11 @@ There is a simple way to host a website stored in a github repository - [github 
 
 ###CC 06 Introduction
 
-* Team assignments
-* Assignment walkthough
+* Team assignments -- AZ I thought that CC 06 is going to be a solo project?
+
+### 10:15 Simple hosting with github pages
+
+There is a simple way to host a website stored in a github repository - [github pages](https://pages.github.com). We'll do a short demonstration of how this works.
 
 ### Interactive jQuery playtime with jsfiddle.net
 
@@ -132,8 +185,9 @@ See the site at [The Portland Incubator](piepdx.com) for an example web site tha
 If you have time, create live sites that the visitor can see after the click on the screenshot.
 
 * Host the static site in the same repo so it can be served using github pages
-* Migrate your MODX site to the MODX cloud and link to it
-* Migrate your Wordpress site to wordpress.com and link to it.
+* Create a [MODX Cloud](https://modxcloud.com/) account and migrate your MODX site to it so you can link to a live version
+
+
 
 <hr>
 
@@ -143,10 +197,25 @@ If you have time, create live sites that the visitor can see after the click on 
 Any additional references?
 
 ### Bootstrap
-Any additional references?
+* [Bootstrap Showcase](http://lovebootstrap.com/)
+* FK -- any useful bootstrap tutorials, examples, etc. Make sure it's for Bootstrap 3.0 + 
+
+
 
 ### jQuery
-Any additional references?
+
+* [Bootstrap jQuery examples](http://getbootstrap.com/javascript)
+* [jQuery UI](https://jqueryui.com/)
+* FK - See what A List Apart or Smashing Magazine has in the way of actual jQuery tutorials
+
+
+### UI / UX
+
+* [North](https://github.com/Snugug/north)
+* [Silk Icon Set]()
+* [An enthusiastic and swear-filled analysis of instructional design in video games](https://www.youtube.com/watch?v=8FpigqfcvlM)
+
+
 
 <hr>
 ## Rollover
@@ -165,7 +234,12 @@ Capstone is proof that you can:
 * Communicate your progress to clients
 * Create high-quality code
 
-Ním - Can we show an example of a good project?
+Example sites which could be suitable capstone projects
+
+* [OROR](http://ororfest.com)
+* [Scott and Salmanowitz](http://www.scott-salmanowitz.com/)
+* [Square Meals](http://squaremealssf.com/)
+* [Real SF](http://jmdragotto.com/)
 
   
 <hr>
