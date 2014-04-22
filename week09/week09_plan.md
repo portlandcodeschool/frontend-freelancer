@@ -193,29 +193,38 @@ If you have time, create live sites that the visitor can see after the click on 
 
 ##Further Research and Reference
 
-### Wordpress
-Any additional references?
+### UI / UX
 
-### Bootstrap
-* [Bootstrap Showcase](http://lovebootstrap.com/)
-* FK -- any useful bootstrap tutorials, examples, etc. Make sure it's for Bootstrap 3.0 + 
+* [North](https://github.com/Snugug/north)
+* [Silk Icon Set](http://www.famfamfam.com/lab/icons/silk/)
+* [An enthusiastic and swear-filled analysis of instructional design in video games](https://www.youtube.com/watch?v=8FpigqfcvlM)
+* [Skeuomorphism in Apple's Design](http://www.slate.com/articles/technology/technology/2012/11/scott_forstall_fired_skeumorphism_the_design_concept_that_s_tearing_apple.html)
+* [Graphic Arrays: Evolution of Screen Resolution & Aspect Ratios](http://datenform.de/blog/graphic-arrays/)
+* [15 Years of Computer Screen Resolution](http://www.fastcodesign.com/1671900/what-15-years-of-computer-screen-evolution-looks-like)
+* [Resolution Stats for the Market of Mobile Devices](http://opensignal.com/reports/fragmentation.php)
+* [Screen Resolution Stats](http://www.w3schools.com/browsers/browsers_display.asp)
 
-
+ __[Bootstrap](http://getbootstrap.com/)__
+ 
+* [Bootstrap Expo](http://expo.getbootstrap.com/) - sample sites
+* [expo resources link](http://expo.getbootstrap.com/resources/)
+* [Bootstrap Docs](http://bootstrapdocs.com/) - documentation
+* [Big Badass List of Bootstrap Resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
+* [Bootsnipp](http://bootsnipp.com/resources) - more resources
 
 ### jQuery
 
 * [Bootstrap jQuery examples](http://getbootstrap.com/javascript)
 * [jQuery UI](https://jqueryui.com/)
-* FK - See what A List Apart or Smashing Magazine has in the way of actual jQuery tutorials
-
-
-### UI / UX
-
-* [North](https://github.com/Snugug/north)
-* [Silk Icon Set]()
-* [An enthusiastic and swear-filled analysis of instructional design in video games](https://www.youtube.com/watch?v=8FpigqfcvlM)
-
-
+* [Great Ways to Learn jQuery](http://www.learningjquery.com/2010/07/great-ways-to-learn-jquery/)
+* [Learn jQuery](https://learn.jquery.com/)
+* [Try jQuery](http://try.jquery.com/)
+* [Codeacademy Track: jQuery](http://www.codecademy.com/tracks/jquery)
+* [jQuery Mobile Resources](http://jquerymobile.com/resources/)
+* [15 Resources to Get You Started with jQuery](http://code.tutsplus.com/tutorials/15-resources-to-get-you-started-with-jquery-from-scratch--net-50)
+* [30 Days to Learn jQuery](https://tutsplus.com/course/30-days-to-learn-jquery/)
+* [Getting Started with jQuery](http://sixrevisions.com/javascript/getting-started-with-jquery/)
+* [jQuery Tutorial for Beginners](http://www.impressivewebs.com/jquery-tutorial-for-beginners/)
 
 <hr>
 ## Rollover
