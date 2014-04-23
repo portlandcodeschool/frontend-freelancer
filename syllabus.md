@@ -8,7 +8,7 @@ Front End Freelancer Class Syllabus
 Contact | Nìm Wunnan | Al Zimmerman
 -------:|-------|--------
 Email | nwunnan@portlandcodeschool.com | azimmerman@portlandcodeschool.com
-Phone (text and voicemail):|  503-853-3721 |  593-970-3645
+Phone (text and voicemail):|  503-853-3721 |  503-970-3645
 Office Hours| Monday 12 - 2pm |  Tuesday & Thursday 3-6pm
 
 ### Contacting your instructors
