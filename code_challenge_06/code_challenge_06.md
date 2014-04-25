@@ -17,7 +17,7 @@ We will use bootstrap to produce a grid-based, responsive site that includes jQu
 
 # Specification
 
-Week 9's assignment is your codebase. Your hand-in should be considered an exploratory stage which will need to be critcally reevaluated with the goals of the project in mind before you begin.
+Week 9's assignment is your codebase. Your hand-in should be considered an exploratory stage which will need to be critcally re-evaluated with the goals of the project in mind before you begin.
 
 ##Content plan
 
@@ -30,7 +30,7 @@ Week 9's assignment is your codebase. Your hand-in should be considered an explo
 	* **A branded, complimentary set of colors including at least two main colors with light and dark variants and one highlight color. These should be listed with both the hex and RGB values.**
 	* **A paragraph of jargon-free language explaining the visual style of the site in enough detail that another developer could work on it without having to call you up for help.**
 	* **Examples of any custom elements that are important to your design, such as buttons, menus, or forms**
-* **Use The following common design patterns and bootstrap features:**
+* **Use the following common design patterns and bootstrap features:**
 	* **Fixed header**
 	* **Scrollspy**
 	* **Smooth scrolling**
@@ -38,7 +38,9 @@ Week 9's assignment is your codebase. Your hand-in should be considered an explo
 	* **Modals**
 * **Your portfolio materials should be a discrete section, with the rest of the site serving to give characterizing and relevant information about you as a person**
 * **Include About Me, Work, and Contact sections in the site**
+* **The "contact" section should include a customized [Mailchimp form](http://mailchimp.com/features/custom-forms/).** *You will have to create a free Mailchimp account first*
 * **Create and include a favicon that legibly communicates your site's style**
+
 	 
 
 ## Mobile-first development
@@ -47,19 +49,18 @@ Read the section and references from North regarding the [mobile-first methodolo
 
 * **None of your interactions should interfere with normal scrolling and swiping on a phone or tablet** 
 * **Use media queries and the background-image property to deliver 2x resolution images to devices with a high pixel density (ie retina screens)**
-* **Include the meta-tags in the head of the document necessary to add home-screen bookmark icons on iOS devices. These should also be retina-ready**
+* **Include the meta-tags in the head of the document necessary to add home-screen bookmark icons on iOS devices.** 
+* **Produce icons for home-screen bookmarks that are also retina-ready**
 * **Style one region of the page to deliver wide-screen content (such as an image or a video) on screens >1000px wide that transforms significantly to look just as good on a mobile screen**
-## jQuery-based interaction
-
-Finally, use jQuery to modify one page element after the document has been loaded.
-* **load the current version of jQuery from [Google's hosted code library](https://developers.google.com/speed/libraries/devguide#jquery)**
-* **Add a block of jQuery to the *footer* element that contains your code**
+* **Your classes, HTML structure, and code comments should be semantic and logical so that the site can be easily re-styled, rebuilt, or changed in the near future**
 
 ##UX
-* CSS -based transformations
-* [Collapsible groups](http://getbootstrap.com/javascript/#collapse) 
-* Google fonts with common fallbacks
-* Use the Compass library to set your font sizes in a vertical rhythm *Hint: this is a very google-able sentence*
+* **Use the [CSS-transform](http://www.w3schools.com/cssref/css3_pr_transform.asp) property to add some visual flair to your site**
+* **Your CSS transformations must be compatible with Firefox, IE, Safari, and mobile browsers** 
+* **Use **[collapsible groups](http://getbootstrap.com/javascript/#collapse)** or another accordion-style plugin to group related content within your porfolio section so that it all fits within the height of a single screen on mobile, tablet, and full-screen desktop browsers**
+* **Use fonts from the Google Font API to personalize your font choices, specifying common fonts as fallbacks**
+* **Use the Compass library to set your font sizes in a vertical rhythm ** *Hint: this is a very google-able sentence*
+* **Style the fields and buttons on the contact form to match the rest of your site**
 
 ## Discussion
 
