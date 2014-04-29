@@ -93,7 +93,7 @@ Front End Freelancer Course
 
 ### 11:00 Creating a basic Style Guide and planning your site visually
 
-* How to create a basic style guide
+* [How to create a basic style guide](http://www.smashingmagazine.com/2010/07/21/designing-style-guidelines-for-brands-and-websites/)
 * You can start making code decisions even when you're working visually
 * When to create an HTML sketch and when to work with a graphic editor
 * How technical constraints and requirements relate to visual decisions
@@ -187,6 +187,8 @@ FK to add references
 * [MDN guide to media queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
 
 ## [Amazing example of CSS Transformations](http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/)
+
+[Google font pairings](http://hellohappy.org/beautiful-web-type/)
 
 
 <hr>
