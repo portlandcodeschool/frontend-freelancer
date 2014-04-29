@@ -184,6 +184,7 @@ FK to add references
 ## Media queries
 
 * [iOS reference](http://www.stephen.io/mediaqueries/)
+* [MDN guide to media queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
 
 ## [Amazing example of CSS Transformations](http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/)
 
