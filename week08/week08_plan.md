@@ -37,7 +37,6 @@ Front End Freelancer Course
 * Can / should you use SASS in your current code challenge?
 
 
-
 ## Planning your capstone
 **We want your capstone to be as sophisticated and customized to your interests and abilities as possible. Not everyone will work with the same material, and some of you will want to use new technologies that we haven't covered yet. This is an opportunity to go deeper with technologies we have already exposed you to, like HTML5, CSS3, jQuery, etc**
 
@@ -127,6 +126,7 @@ Front End Freelancer Course
 
 ###Video Conferencing with Skype
 
+
 * An interactive exercise using Skype
 * Prepare to use Skype for your CC05 checkin
 * [See the notes for details](video_conferencing.md)
@@ -139,11 +139,6 @@ Be prepared to present your project's
 * Customer overview document (in Basecamp)
 * Wireframes document (in Basecamp)
 * technical overivew - what aspects of wordpress you are going to use and how you plan on building the site
-
-
-
-
-
 
 
 ## Assignment
@@ -166,10 +161,7 @@ Screencasts
 
 <hr>
 
-
-
 ##Further Research and Reference
-
 
 
 ### Wordpress
@@ -180,10 +172,12 @@ Screencasts
 * [Using shortcodes](XXXX)
 * [Advanced widget function reference](http://codex.wordpress.org/Function_Reference/the_widget)
 
+
 <hr>
 ## Rollover
 
 This material may or may not fit into this week
+
 
 ### jQuery Interactive exercise
 
@@ -202,6 +196,7 @@ This material may or may not fit into this week
 * Skeumorphic vs "Metro"
 * Affordance, Icons, and Instructions
 
+
 ### UI Pattern libraries
 Check out a few of these
 
@@ -216,11 +211,6 @@ Check out a few of these
 [The website of the father of pattern languages, Christopher Alexander](http://www.patternlanguage.com/), shows how he and his community are using patterns to build better cities, towns, and buildings. 
 
 If you want to see a copy of the book that started it all: [A Pattern Language: Towns, Buildings, Construction](http://www.worldcat.org/title/pattern-language-towns-buildings-construction/oclc/3132495), talk to Al or use the given worldcat.org link to find a copy at your local library.
-
-
-
-
-
 
   
 <hr>
