@@ -156,7 +156,18 @@ Front End Freelancer Course
 * Overview of the @font-face property
 * [Using Font Squirrel to generate your own webfont package](http://www.fontsquirrel.com/tools/webfont-generator)
 
-FK to add references
+#####Tutorials
+
+* [Google Fonts API](https://developers.google.com/fonts/docs/getting_started)
+* [Quick Guide to Web Fonts](http://www.html5rocks.com/en/tutorials/webfonts/quick/)
+* [Web Fonts Tutorial](https://www.typotheque.com/webfonts/tutorial) by Typotheque
+* [Implementing @Font-Face](http://www.miltonbayer.com/font-face/)
+* [The @Font-Face Rule Revisited](http://www.smashingmagazine.com/2011/03/02/the-font-face-rule-revisited-and-useful-tricks/)
+* [How to Use @Font-Face and Webfonts](http://eng.designerbreak.com/2009/tutorial/font-face-and-webfonts-how-to-use-them/)
+* [Using @font-face with Popular Webfont Services](http://www.adobe.com/devnet/edge-web-fonts/articles/use-at-font-face-with-with-font-services.html)
+* [@Font-face Options & Alternatives](http://www.artzstudio.com/2012/02/web-font-performance-weighing-fontface-options-and-alternatives/)
+* [90 Typography Tutorials](http://www.creativebloq.com/graphic-design-tips/typography-tutorials-1232719)
+
 
 ### 10:10 Break
 
@@ -173,9 +184,39 @@ FK to add references
 
 ##Further Research and Reference
 
-* google fonts pairing guide
-* FK - resouces for layout, vector graphic editing, etc, that are free, browser-based, or cheap. IE something they can use if they don't have illustrator.
-* FK - any basic research about webfonts -- comparison between popular providers would be great
+#####Illustration & Image Editing
+Free, browser-based or cheap alternatives for layout, vector graphic editing, etc:
+
+* [Inkscape](http://www.inkscape.org/en/)
+* [GIMP](http://www.gimp.org/)
+* [Seashore](http://seashore.sourceforge.net/The_Seashore_Project/About.html)
+* [Sketch](http://bohemiancoding.com/sketch/)
+* [Pixelmator](http://www.pixelmator.com/)
+* [Acorn](http://www.flyingmeat.com/acorn/)
+* [iDraw](http://www.indeeo.com/idraw/)
+* [Artboard](http://www.mapdiva.com/artboard/)
+* [Serif DrawPlus](http://www.serif.com/free-graphic-design-software/)
+* [Alchemy](http://al.chemy.org/)
+* [Pencil](http://www.pencil-animation.org/)
+
+#####Webfonts
+
+* [Round-up of Webfont Providers](http://web.appstorm.net/roundups/web-development/the-best-places-to-get-web-fonts-for-your-site/)
+* [Another roundup](http://sprungmarker.de/wp-content/uploads/webfont-services/)
+* [Review of Popular Web Font Embedding Services](http://www.smashingmagazine.com/2010/10/20/review-of-popular-web-font-embedding-services/)
+* [Web Typography Showdown](http://engageinteractive.co.uk/blog/web-typography-showdown)
+* [Web Font Services: The Good, The Bad & The Ugly](http://webdesign.tutsplus.com/articles/web-font-services-the-good-the-bad-and-the-ugly--webdesign-7774)
+
+#####Pretty!
+* [Best of Google Fonts](http://hellohappy.org/beautiful-web-type/)
+* [Typography: Web Fonts](http://alistapart.com/topic/typography-web-fonts) from A List Apart
+* [I Love Typography](http://ilovetypography.com/)
+	* [Guide to Web Typography](http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/)
+* [Typewolf](http://www.typewolf.com/)
+* list of [Typographic Art Blogs](http://ask.metafilter.com/188058/Looking-for-typographic-art-blogs)
+* [Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
+
+
 
 ## Mobile first
 
