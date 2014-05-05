@@ -18,9 +18,14 @@ Front End Freelancer Course
 ##Monday
 ### 9:00 What we'll cover this week
 
+### 9:15 Quick look at a fun, free new tool for creating CSS transformations
 
+* [Google Web Designer](https://www.google.com/webdesigner/)
+* [Help for GWD](https://support.google.com/webdesigner/#topic=3249465)
 
-### 9:30 Using Web fonts
+### 9:45 break
+
+### 9:55 Using Web fonts
 
 * [Cool infographic](http://www.fastcodesign.com/1664719/infographic-of-the-day-why-should-you-care-about-typography)
 
@@ -31,13 +36,7 @@ Front End Freelancer Course
 * Overview of the @font-face property
 * [Using Font Squirrel to generate your own webfont package](http://www.fontsquirrel.com/tools/webfont-generator)
 
-### 10:00 Break
-
-### 10:05 Quick look at a fun, free new tool for creating CSS transformations
-
-* [Google Web Designer](https://www.google.com/webdesigner/)
-* [Help for GWD](https://support.google.com/webdesigner/#topic=3249465)
-
+### 10:25 Break
 
 ### 10:30 Code Challenge presentation
 
