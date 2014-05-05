@@ -22,6 +22,8 @@ Front End Freelancer Course
 
 ### 9:30 Using Web fonts
 
+* [Cool infographic](http://www.fastcodesign.com/1664719/infographic-of-the-day-why-should-you-care-about-typography)
+
 * Google and other embedded fonts specify font weights
 	* If you don't have a font weight, you can't use it
 	* "light", "lighter", "normal", etc vs numerical font weights
