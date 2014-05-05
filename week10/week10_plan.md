@@ -152,7 +152,8 @@ Front End Freelancer Course
 
 * Google and other embedded fonts specify font weights
 	* If you don't have a font weight, you can't use it
-	* "light", "lighter", "normal", etc vs numerical font weights 
+	* "light", "lighter", "normal", etc vs numerical font weights
+	* [Nice discussion of under-used free fonts](http://www.smashingmagazine.com/2014/03/12/taking-a-second-look-at-free-fonts/)
 * Overview of the @font-face property
 * [Using Font Squirrel to generate your own webfont package](http://www.fontsquirrel.com/tools/webfont-generator)
 
