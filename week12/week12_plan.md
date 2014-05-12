@@ -16,6 +16,9 @@ Set up with git
 
 0. How git relates to deployment.  Do you version control a live site, or is it only on the development side? 
 
+----------
+
+0. How to deploy WP with strong admin user and password.
 
 
 0. MODX analogy - what are the  WordPress equivalents of template variables and snippets? 
