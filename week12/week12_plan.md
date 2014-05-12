@@ -17,6 +17,7 @@ Set up with git
 0. How git relates to deployment.  Do you version control a live site, or is it only on the development side? 
 
 ----------
+0. Setting up databases - database and table naming.
 
 0. How to deploy WP with strong admin user and password.
 
@@ -65,6 +66,12 @@ Deployment:
 
 
 widgets.  
+
+
+-----
+reminders
+install [atext](http://www.trankynam.com/atext/)
+
 <hr>
 
   
