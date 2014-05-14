@@ -76,6 +76,17 @@ Deployment
 ##Overflow
 0. How to access Jquery correctly or test to see if it will conflict with the Jquery connected with the theme. (possibly how to trouble shoot if there is a conflict, or how to know when to cut the cord)
 
+#Resources
+---------------------------------
+Catherine Nikolovski <cnikolovski@portlandcodeschool.com>
+
+##Wordpress
+---------------------------------
+* [Stepping into Templates](http://codex.wordpress.org/Stepping_Into_Templates)
+* [Category Templates](http://codex.wordpress.org/Category_Templates)
+* [Page Templates](http://codex.wordpress.org/Page_Templates)
+* [Theme Development](http://codex.wordpress.org/Theme_Development)
+
   
 <hr>
 Copyright © 2014 Alan Zimmerman & Ním Wunnan<br />
