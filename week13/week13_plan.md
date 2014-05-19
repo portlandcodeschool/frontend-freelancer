@@ -38,7 +38,10 @@ install [atext](http://www.trankynam.com/atext/)
 * [RightSignature](https://rightsignature.com/signup) - paid, binding, signable forms
 * [What to say when you're asked to work for free](http://www.thestar.com/business/personal_finance/2013/11/19/what_to_say_when_youre_asked_to_work_for_free.html) - ***THIS IS SUPER IMPORTANT READ IT READ IT!**
 
-  
+## Further research and reference
+
+[24ways](http://24ways.org/) - 24 great articles every December about web design
+
 <hr>
 Copyright © 2014 Alan Zimmerman & Ním Wunnan<br />
 Used by permission by Portland Code School
