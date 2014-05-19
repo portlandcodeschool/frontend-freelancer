@@ -4,28 +4,7 @@ Front End Freelancer Course
 
 #Week 13
 
-##What We'll Cover This Week
 
-* Development environment setup
-* Team workflow
-* How Wordpress builds a page 
-* How to customize Wordpress using themes
-* Using the admin dashboard
-* Deployment
-* When is wordpress the best option.  When not. A flowchart
-* How to select which wordpress theme to use.  Different features to look for, reputation, edibility, etc.  Is it ever worth it to use a free theme?  
-
-
-
-
-
-
-
------
-reminders
-install [atext](http://www.trankynam.com/atext/)
-
-<hr>
 
 ## Monday
 
