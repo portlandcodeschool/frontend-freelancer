@@ -11,6 +11,7 @@ Front End Freelancer Course
 ### Contracts and Contracting
 
 * [Contract Killer](http://24ways.org/2008/contract-killer/) - a simplified, but thorough basic contract
+* [Current open-source version of Contract Killer](https://gist.github.com/malarkey/4031110)
 * [Contract boilerplate based on Contact Killer](https://www.docracy.com/3884/contract-of-works-for-web-design)
 * [Sample design contract](https://www.docracy.com/5152/short-form-design-contract) - For design, not dev, but still useful to look at
 * [5 free templates](http://speckyboy.com/2010/08/12/5-free-to-use-freelance-design-contract-templates/) - some from other professions
