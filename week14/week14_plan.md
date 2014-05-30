@@ -55,8 +55,9 @@ Holiday
 
 ### Capstone
 
-* Contracts and Estimate
+* Contracts and Estimates
 * Using events as milestones in BaseCamp
+* Review contracts and requirement documents
 * Lab time
 
 
