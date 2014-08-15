@@ -1,8 +1,9 @@
 
-![PCS logo](/img/logo/Color.png "PCS Logo")
+![Portland Code School](img/logo/Color-tiny.png "PCS Logo")
 
-Portland Code School
-# Front End Freelancer Class Syllabus
+
+# Front End Freelancer Class 
+# Syllabus
 version 2.0
 
 
@@ -21,17 +22,20 @@ PCS Classroom, 1771 NW Pettygrove Street, Ste 140
 Portland, OR 97209
 
 
-### Instructor: **Al Zimmerman**
+### Instructor: 
+**Al Zimmerman**
 
-Email |  azimmerman@portlandcodeschool.com
-Phone (text and voicemail):|  503-970-3645
-Office Hours| Monday 1 - 3pm 
+Email: azimmerman@portlandcodeschool.com
+
+Phone (text and voicemail):  503-970-3645
+
+Office Hours: Monday 1 - 3pm 
 
 **Contacting your instructor**
 
 I am available for a short period of time after each class. My main office hours are Monday 1-3pm in the PCS classroom. I'm also willing to meet with you by prior arrangement online in a Google hangout or Skype screen sharing session. My calendar is as tightly fitted as a Moroccan mosaic, however, and we may have to work a little to find a time that works for both of us.  Office hours work best.
 
-My Code School email is azimmerman@portlandcodeschool.com. Email to this address will get a reply within 24-48 hours. My cellphone is 503-970-3645, but it only works for text or voicemail. If you text me, please prefix your text with the word "PCS". Texts or voicemail will get a reply within 4 hours.
+My PCS email is azimmerman@portlandcodeschool.com. Email to this address will get a reply within 24-48 hours. My cellphone is 503-970-3645, but it only works for text or voicemail. If you text me, please prefix your text with the word "PCS". Texts or voicemail will get a reply within 4 hours.
 
 
 
