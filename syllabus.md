@@ -2,7 +2,7 @@
 ![Portland Code School](img/logo/Color-tiny.png "PCS Logo")
 
 
-# Front End Freelancer Class 
+# Front End Class 
 # Syllabus
 version 2.0
 
