@@ -65,7 +65,7 @@ The core abilities for students in our program are as follows. They are designed
 Technical abilities are skills needed to succeed in front end web development
 
 1. Understanding basic principles of user interface design and user experience 
-1. Constructing web sites with valid HTML, CSS, JavaScript, and JQuery
+1. Constructing web sites with valid HTML, CSS, JavaScript, and jQuery
 1. Styling modern, fresh-looking designs with CSS3
 1. Creating responsive designs that work on phones, tablets, or traditional laptops and wide-screen monitors.
 1. Using CSS frameworks like Bootstrap and Foundation
